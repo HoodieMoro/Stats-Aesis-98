@@ -1,0 +1,147 @@
+{
+ "home": {
+  "label": "Gladiatores Matelica",
+  "players": [
+   {
+    "name": "Haderi",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Porcarelli D.",
+    "pts": 15,
+    "played": true
+   },
+   {
+    "name": "Boni",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Brugnola",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Mori",
+    "pts": 14,
+    "played": true
+   },
+   {
+    "name": "Offor",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Sacco",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Picchietti",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Zamparini",
+    "pts": 15,
+    "played": true
+   },
+   {
+    "name": "Orsini",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Odai",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Ferretti",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": "Porcarelli R"
+ },
+ "away": {
+  "label": "P73 Ancona",
+  "players": [
+   {
+    "name": "Agostinelli",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Petrolini",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Marcellini",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Granato",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Corvaro",
+    "pts": 20,
+    "played": true
+   },
+   {
+    "name": "Ratti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Bellesi",
+    "pts": 11,
+    "played": true
+   },
+   {
+    "name": "Anzini",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Ciattaglia",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Ansevini D.",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Ansevini L",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": "Luconi"
+ },
+ "quarters": [
+  [
+   22,
+   19
+  ],
+  [
+   20,
+   20
+  ],
+  [
+   18,
+   4
+  ],
+  [
+   13,
+   10
+  ]
+ ]
+}

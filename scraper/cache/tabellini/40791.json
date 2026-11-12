@@ -1,0 +1,147 @@
+{
+ "home": {
+  "label": "Conero Razorbacks",
+  "players": [
+   {
+    "name": "Esposito",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Conte",
+    "pts": 11,
+    "played": true
+   },
+   {
+    "name": "Campanella",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Battagli",
+    "pts": 14,
+    "played": true
+   },
+   {
+    "name": "Bartocci",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Trovamala",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Alcidi",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Giacchetti",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Ponzella",
+    "pts": 17,
+    "played": true
+   },
+   {
+    "name": "Centanni",
+    "pts": 15,
+    "played": true
+   },
+   {
+    "name": "Filippetti",
+    "pts": 5,
+    "played": true
+   }
+  ],
+  "coach": "Cingolani"
+ },
+ "away": {
+  "label": "Project Basket Osimo",
+  "players": [
+   {
+    "name": "Biordi",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Vescovo",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Tortù",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Santilli",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Martella",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Strappato",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Carletti D.",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Gradara",
+    "pts": 11,
+    "played": true
+   },
+   {
+    "name": "Carletti A.",
+    "pts": 12,
+    "played": true
+   },
+   {
+    "name": "Nardini",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Carletti A",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Belardinelli",
+    "pts": null,
+    "played": false
+   }
+  ],
+  "coach": "Mosca"
+ },
+ "quarters": [
+  [
+   17,
+   22
+  ],
+  [
+   22,
+   21
+  ],
+  [
+   21,
+   9
+  ],
+  [
+   21,
+   8
+  ]
+ ]
+}

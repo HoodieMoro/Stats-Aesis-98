@@ -1,0 +1,152 @@
+{
+ "home": {
+  "label": "Falconara Basket",
+  "players": [
+   {
+    "name": "Gambelli",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Bianchi",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Cardinali G.",
+    "pts": 12,
+    "played": true
+   },
+   {
+    "name": "Cardinali M.",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Latini",
+    "pts": 15,
+    "played": true
+   },
+   {
+    "name": "Ogiemwonyi",
+    "pts": 11,
+    "played": true
+   },
+   {
+    "name": "Spaccesi",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Dottori",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "D'Archivio",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Gramazio",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Martino",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Giampieri",
+    "pts": 10,
+    "played": true
+   }
+  ],
+  "coach": null
+ },
+ "away": {
+  "label": "Basket School Fabriano",
+  "players": [
+   {
+    "name": "Gasparrini",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Pellacchia",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Caldarigi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Caporali",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Pierotti",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Mosciatti",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Palazzi",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Cardarelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Paoletti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Stefanelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Onesta J.",
+    "pts": 21,
+    "played": true
+   },
+   {
+    "name": "Lupacchini",
+    "pts": 5,
+    "played": true
+   }
+  ],
+  "coach": "Gentili"
+ },
+ "quarters": [
+  [
+   16,
+   19
+  ],
+  [
+   14,
+   14
+  ],
+  [
+   12,
+   10
+  ],
+  [
+   18,
+   11
+  ]
+ ]
+}

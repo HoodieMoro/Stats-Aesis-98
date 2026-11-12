@@ -1,0 +1,152 @@
+{
+ "home": {
+  "label": "Montevalle Academy",
+  "players": [
+   {
+    "name": "Mosca",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Ferri",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Guidi",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Paolinelli",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Carbonaro",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Burzacchini",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Gigli",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Castelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Carbonari",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Crinelli",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Catani",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Epstein",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": null
+ },
+ "away": {
+  "label": "Aesis Jesi",
+  "players": [
+   {
+    "name": "Sami Slama",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Mosca",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Ogiemwonyi",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Cardinali",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Sebastianelli",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Montanari",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Brutti",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Nemchenko",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Sabri Slama",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Stronati",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Lardinelli",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Agusti",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": "Mosca"
+ },
+ "quarters": [
+  [
+   11,
+   13
+  ],
+  [
+   3,
+   13
+  ],
+  [
+   14,
+   15
+  ],
+  [
+   14,
+   6
+  ]
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "home": {
+  "label": "PB 1992 Polverigi Basket Blu",
+  "players": [
+   {
+    "name": "Maurelli",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Curina",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Catena",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Mazzoni",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Frittella",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Balzani",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Rossi",
+    "pts": 13,
+    "played": true
+   },
+   {
+    "name": "Risaliti",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Salemi",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Baldini",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Sbaffo",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Messina",
+    "pts": 3,
+    "played": true
+   }
+  ],
+  "coach": "Bonventi"
+ },
+ "away": {
+  "label": "Falconara Basket",
+  "players": [
+   {
+    "name": "Gambelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Bianchi",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Cardinali G.",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Cardinali M.",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Latini",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Ogiemwonyi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Dottori",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Martino",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Giampieri L",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Ciaffi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Giampieri T.",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Moretti",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": null
+ },
+ "quarters": [
+  [
+   19,
+   10
+  ],
+  [
+   13,
+   11
+  ],
+  [
+   26,
+   11
+  ],
+  [
+   19,
+   6
+  ]
+ ]
+}

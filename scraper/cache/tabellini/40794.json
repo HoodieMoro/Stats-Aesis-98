@@ -1,0 +1,152 @@
+{
+ "home": {
+  "label": "Adriatico Ancona",
+  "players": [
+   {
+    "name": "Ferretti",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Tamburini",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Bedetti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Scabini",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Ripanti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Ciarrocchi",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Cecconi",
+    "pts": 11,
+    "played": true
+   },
+   {
+    "name": "Gasparrini F.",
+    "pts": 11,
+    "played": true
+   },
+   {
+    "name": "Di Felice",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Osimani",
+    "pts": 26,
+    "played": true
+   },
+   {
+    "name": "Gasparrini A.",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Catana Vallemani",
+    "pts": 2,
+    "played": true
+   }
+  ],
+  "coach": "Gasparrini M"
+ },
+ "away": {
+  "label": "Unione Basket 2010",
+  "players": [
+   {
+    "name": "Ferretti",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Kurti",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Brugnoni",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Greganti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Santoni",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Feo",
+    "pts": 12,
+    "played": true
+   },
+   {
+    "name": "Palumbo",
+    "pts": 19,
+    "played": true
+   },
+   {
+    "name": "Palmucci",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Corinaldesi",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Pergolesi",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Duca",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Pergolini",
+    "pts": 10,
+    "played": true
+   }
+  ],
+  "coach": "Pepa"
+ },
+ "quarters": [
+  [
+   22,
+   27
+  ],
+  [
+   19,
+   27
+  ],
+  [
+   15,
+   10
+  ],
+  [
+   23,
+   8
+  ]
+ ]
+}

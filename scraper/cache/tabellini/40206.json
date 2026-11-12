@@ -1,0 +1,147 @@
+{
+ "home": {
+  "label": "Project Basket Osimo",
+  "players": [
+   {
+    "name": "Pettinari",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Biordi",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Giorgi",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Vescovo",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Tortù",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Santilli",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Martella",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Carletti D.",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Gradara",
+    "pts": 14,
+    "played": true
+   },
+   {
+    "name": "Carletti A.",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Nardini",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": "Mosca"
+ },
+ "away": {
+  "label": "PB 1992 Polverigi Basket Blu",
+  "players": [
+   {
+    "name": "Farinelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Curina",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Catena",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Mazzoni",
+    "pts": 16,
+    "played": true
+   },
+   {
+    "name": "Giaccaglia",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Frittella",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Balzani",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Rossi",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Risaliti",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Salemi",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Baldini",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Cantarini",
+    "pts": 5,
+    "played": true
+   }
+  ],
+  "coach": "Bonventi"
+ },
+ "quarters": [
+  [
+   16,
+   9
+  ],
+  [
+   17,
+   21
+  ],
+  [
+   6,
+   13
+  ],
+  [
+   11,
+   14
+  ]
+ ]
+}

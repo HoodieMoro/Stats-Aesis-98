@@ -1,0 +1,152 @@
+{
+ "home": {
+  "label": "Gladiatores Matelica",
+  "players": [
+   {
+    "name": "Porcarelli D.",
+    "pts": 20,
+    "played": true
+   },
+   {
+    "name": "Boni",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Brugnola",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Offor",
+    "pts": 13,
+    "played": true
+   },
+   {
+    "name": "Cingolani",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Sacco",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Picchietti",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Zamparini",
+    "pts": 26,
+    "played": true
+   },
+   {
+    "name": "Fenucci",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Gentilucci",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Orsini",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Ferretti",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": "Porcarelli R"
+ },
+ "away": {
+  "label": "Vis Castelfidardo",
+  "players": [
+   {
+    "name": "Attili",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Gobbetti",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Monaci",
+    "pts": 19,
+    "played": true
+   },
+   {
+    "name": "Bambozzi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Venturini",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Schiavoni",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Virgini",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Marrazzo",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Francioni",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Borsella",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Di Palma",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Massaccesi",
+    "pts": 6,
+    "played": true
+   }
+  ],
+  "coach": "Magrini"
+ },
+ "quarters": [
+  [
+   23,
+   15
+  ],
+  [
+   16,
+   21
+  ],
+  [
+   29,
+   9
+  ],
+  [
+   13,
+   8
+  ]
+ ]
+}

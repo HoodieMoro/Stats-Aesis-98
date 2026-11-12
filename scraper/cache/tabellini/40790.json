@@ -1,0 +1,152 @@
+{
+ "home": {
+  "label": "Aesis Jesi",
+  "players": [
+   {
+    "name": "Sami Slama",
+    "pts": 15,
+    "played": true
+   },
+   {
+    "name": "Lardinelli",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Ogiemwonyi",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Cardinali",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Ceccarelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Sebastianelli",
+    "pts": 15,
+    "played": true
+   },
+   {
+    "name": "Montanari",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Moretti",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Brutti",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Nemchenko",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Sabri Slama",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Stronati",
+    "pts": 4,
+    "played": true
+   }
+  ],
+  "coach": "Moscaa"
+ },
+ "away": {
+  "label": "Gladiatores Matelica",
+  "players": [
+   {
+    "name": "Mecella",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Porcarelli",
+    "pts": 20,
+    "played": true
+   },
+   {
+    "name": "Boni",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Brugnola",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Mori",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Offor",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Cingolani",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Sacco",
+    "pts": 17,
+    "played": true
+   },
+   {
+    "name": "Picchietti",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Zamparini",
+    "pts": 14,
+    "played": true
+   },
+   {
+    "name": "Fenucci",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Orsini",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": "Porcarelli"
+ },
+ "quarters": [
+  [
+   18,
+   10
+  ],
+  [
+   13,
+   17
+  ],
+  [
+   17,
+   27
+  ],
+  [
+   17,
+   18
+  ]
+ ]
+}

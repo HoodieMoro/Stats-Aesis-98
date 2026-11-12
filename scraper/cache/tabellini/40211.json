@@ -1,0 +1,147 @@
+{
+ "home": {
+  "label": "Montevalle Academy",
+  "players": [
+   {
+    "name": "Mosca",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Ferri",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Guidi",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Paolinelli",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Carbonaro",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Burzacchini",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Gigli",
+    "pts": 22,
+    "played": true
+   },
+   {
+    "name": "Castelli",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Carbonari",
+    "pts": 17,
+    "played": true
+   },
+   {
+    "name": "Crinelli",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Pignatiello",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Epstein",
+    "pts": 8,
+    "played": true
+   }
+  ],
+  "coach": null
+ },
+ "away": {
+  "label": "Falconara Basket",
+  "players": [
+   {
+    "name": "Gambelli",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Bianchi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Cardinali G.",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Cardinali M.",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Latini",
+    "pts": 12,
+    "played": true
+   },
+   {
+    "name": "Spaccesi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Dottori",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "D'Archivio",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Gramazio",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Moretti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Martino",
+    "pts": 2,
+    "played": true
+   }
+  ],
+  "coach": null
+ },
+ "quarters": [
+  [
+   12,
+   15
+  ],
+  [
+   22,
+   3
+  ],
+  [
+   20,
+   10
+  ],
+  [
+   20,
+   7
+  ]
+ ]
+}

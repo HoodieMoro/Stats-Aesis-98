@@ -1,0 +1,152 @@
+{
+ "home": {
+  "label": "Vis Castelfidardo",
+  "players": [
+   {
+    "name": "Giantomasi",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Attili",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Gobbetti",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Monaci",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Bambozzi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Schiavoni",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Virgini",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Marrazzo",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Francioni",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Borsella",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Di Palma",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Massaccesi",
+    "pts": 11,
+    "played": true
+   }
+  ],
+  "coach": "Magrini"
+ },
+ "away": {
+  "label": "Basket School Fabriano",
+  "players": [
+   {
+    "name": "Gasparrini",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Pellacchia",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Onesta D.",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Caporali",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Pierotti",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Mosciatti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Palazzi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Cardarelli",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Paoletti",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Stefanelli",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Onesta J.",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Lupacchini",
+    "pts": 5,
+    "played": true
+   }
+  ],
+  "coach": "Gentili"
+ },
+ "quarters": [
+  [
+   13,
+   8
+  ],
+  [
+   19,
+   12
+  ],
+  [
+   18,
+   14
+  ],
+  [
+   7,
+   7
+  ]
+ ]
+}

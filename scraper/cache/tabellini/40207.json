@@ -1,0 +1,152 @@
+{
+ "home": {
+  "label": "Conero Razorbacks",
+  "players": [
+   {
+    "name": "Conte",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Campanella",
+    "pts": 13,
+    "played": true
+   },
+   {
+    "name": "Battagli",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Bartocci",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Trovamala",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Iurini",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Alcidi",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Giacchetti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Lanari",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Ponzella",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Centanni",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Filippetti",
+    "pts": 2,
+    "played": true
+   }
+  ],
+  "coach": "Cingolani"
+ },
+ "away": {
+  "label": "P73 Ancona",
+  "players": [
+   {
+    "name": "Petrolini",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Papini",
+    "pts": 14,
+    "played": true
+   },
+   {
+    "name": "Giuliodori",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Granato",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Fioroni",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Corvaro",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Ratti",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Bellesi",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Anzini",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Ciattaglia",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Ansevini",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Osimani",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": "Luconi"
+ },
+ "quarters": [
+  [
+   17,
+   21
+  ],
+  [
+   14,
+   6
+  ],
+  [
+   20,
+   9
+  ],
+  [
+   11,
+   8
+  ]
+ ]
+}

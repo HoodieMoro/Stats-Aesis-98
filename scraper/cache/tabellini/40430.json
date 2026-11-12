@@ -1,0 +1,152 @@
+{
+ "home": {
+  "label": "PB 1992 Polverigi Basket Blu",
+  "players": [
+   {
+    "name": "Farinelli",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Curina",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Catena",
+    "pts": 17,
+    "played": true
+   },
+   {
+    "name": "Mazzoni",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Giaccaglia",
+    "pts": 12,
+    "played": true
+   },
+   {
+    "name": "Frittella",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Balzani",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Rossi",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Risaliti",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Sbaffo",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Salemi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Baldini",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": "Bonventi"
+ },
+ "away": {
+  "label": "Adriatico Ancona",
+  "players": [
+   {
+    "name": "Vitali Fi.",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Lambiase",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Vitali Fe.",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Ripanti",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Ciarrocchi",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Cecconi",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Gasparrini F.",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Di Felice",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Scabini",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Osimani",
+    "pts": 18,
+    "played": true
+   },
+   {
+    "name": "Gasparrini A.",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Naspi",
+    "pts": 14,
+    "played": true
+   }
+  ],
+  "coach": "Gasparrini M"
+ },
+ "quarters": [
+  [
+   16,
+   27
+  ],
+  [
+   16,
+   19
+  ],
+  [
+   7,
+   16
+  ],
+  [
+   24,
+   16
+  ]
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "home": {
+  "label": "Unione Basket 2010",
+  "players": [
+   {
+    "name": "Ferretti",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Kurti",
+    "pts": 11,
+    "played": true
+   },
+   {
+    "name": "Brugnoni",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Greganti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Cioccolanti",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Santoni",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Feo",
+    "pts": 12,
+    "played": true
+   },
+   {
+    "name": "Palumbo",
+    "pts": 19,
+    "played": true
+   },
+   {
+    "name": "Sbarbati",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Palmucci",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Corinaldesi",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Pergolesi",
+    "pts": 13,
+    "played": true
+   }
+  ],
+  "coach": "Pepa"
+ },
+ "away": {
+  "label": "Aesis Jesi",
+  "players": [
+   {
+    "name": "Sami Slama",
+    "pts": 20,
+    "played": true
+   },
+   {
+    "name": "Morresi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Lardinelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Ogiemwonyi",
+    "pts": 15,
+    "played": true
+   },
+   {
+    "name": "Cardinali",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Sebastianelli",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Montanari",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Moretti",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Brutti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Agusti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Nemchenko",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Sabri Slama",
+    "pts": 7,
+    "played": true
+   }
+  ],
+  "coach": "Mosca"
+ },
+ "quarters": [
+  [
+   22,
+   13
+  ],
+  [
+   18,
+   11
+  ],
+  [
+   17,
+   24
+  ],
+  [
+   26,
+   12
+  ]
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "home": {
+  "label": "Adriatico Ancona",
+  "players": [
+   {
+    "name": "Vitali Fi.",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Lambiase",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Vitali Fe.",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Scabini",
+    "pts": 16,
+    "played": true
+   },
+   {
+    "name": "Ripanti",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Ciarrocchi",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Cecconi",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Gasparrini F.",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Di Felice",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Osimani",
+    "pts": 11,
+    "played": true
+   },
+   {
+    "name": "Gasparrini A",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Naspi",
+    "pts": 8,
+    "played": true
+   }
+  ],
+  "coach": "Gasparrini M"
+ },
+ "away": {
+  "label": "Gladiatores Matelica",
+  "players": [
+   {
+    "name": "Porcarelli D.",
+    "pts": 12,
+    "played": true
+   },
+   {
+    "name": "Boni",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Brugnola",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Mori",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Chukwuebuka",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Cingolani",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Picchietti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Fenucci",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Gentilucci",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Orsini",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Cipriani",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Ferretti",
+    "pts": 10,
+    "played": true
+   }
+  ],
+  "coach": "Porcarelli R"
+ },
+ "quarters": [
+  [
+   16,
+   10
+  ],
+  [
+   12,
+   15
+  ],
+  [
+   27,
+   9
+  ],
+  [
+   24,
+   8
+  ]
+ ]
+}

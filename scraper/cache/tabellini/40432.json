@@ -1,0 +1,152 @@
+{
+ "home": {
+  "label": "Basket School Fabriano",
+  "players": [
+   {
+    "name": "Gasparrini",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Pellacchia",
+    "pts": 15,
+    "played": true
+   },
+   {
+    "name": "Caldarigi",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Caporali",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Pierotti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Mosciatti",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Palazzi",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Cardarelli",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Paoletti",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Stefanelli",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Onesta J.",
+    "pts": 15,
+    "played": true
+   },
+   {
+    "name": "Lupacchini",
+    "pts": 23,
+    "played": true
+   }
+  ],
+  "coach": "Gentili"
+ },
+ "away": {
+  "label": "Aesis Jesi",
+  "players": [
+   {
+    "name": "Sami Slama",
+    "pts": 17,
+    "played": true
+   },
+   {
+    "name": "Mosca",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Lardinelli",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Ogiemwonyi",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Santinelli",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Ceccarelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Sebastianelli",
+    "pts": 12,
+    "played": true
+   },
+   {
+    "name": "Moretti",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Brutti",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Agusti",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Nemchenko",
+    "pts": 20,
+    "played": true
+   },
+   {
+    "name": "Sabri Slama",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": "Mosca"
+ },
+ "quarters": [
+  [
+   18,
+   17
+  ],
+  [
+   19,
+   22
+  ],
+  [
+   19,
+   16
+  ],
+  [
+   16,
+   22
+  ]
+ ]
+}

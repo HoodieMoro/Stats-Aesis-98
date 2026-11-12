@@ -1,0 +1,152 @@
+{
+ "home": {
+  "label": "Unione Basket 2010",
+  "players": [
+   {
+    "name": "Ferretti",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Kurti",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Brugnoni",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Greganti",
+    "pts": 12,
+    "played": true
+   },
+   {
+    "name": "Pergolini",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Santoni",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Feo",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Palumbo",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Sbarbati",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Duca",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Corinaldesi",
+    "pts": 11,
+    "played": true
+   },
+   {
+    "name": "Costarelli",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": "Pepa"
+ },
+ "away": {
+  "label": "P73 Ancona",
+  "players": [
+   {
+    "name": "Petrolini",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Papini",
+    "pts": 11,
+    "played": true
+   },
+   {
+    "name": "Agostinelli",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Giuliodori",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Granato",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Corvaro",
+    "pts": 14,
+    "played": true
+   },
+   {
+    "name": "Ratti",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Ansevini L",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Bellesi",
+    "pts": 11,
+    "played": true
+   },
+   {
+    "name": "Anzini",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Ciattaglia",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Ansevini D",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": "Luconi"
+ },
+ "quarters": [
+  [
+   19,
+   13
+  ],
+  [
+   16,
+   19
+  ],
+  [
+   16,
+   16
+  ],
+  [
+   15,
+   9
+  ]
+ ]
+}

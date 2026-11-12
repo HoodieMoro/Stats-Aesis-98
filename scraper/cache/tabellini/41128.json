@@ -1,0 +1,147 @@
+{
+ "home": {
+  "label": "Vis Castelfidardo",
+  "players": [
+   {
+    "name": "Giantomasi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Attili",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Gobbetti",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Monaci",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Marrazzo",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Venturini",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Schiavoni",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Virgini",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Francioni",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Borsella",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Di Palma",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Massaccesi",
+    "pts": 9,
+    "played": true
+   }
+  ],
+  "coach": null
+ },
+ "away": {
+  "label": "Conero Razorbacks",
+  "players": [
+   {
+    "name": "Esposito",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Conte",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Lanari",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Battagli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Bartocci",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Trovamala",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Alcidi",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Giacchetti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Ponzella",
+    "pts": 11,
+    "played": true
+   },
+   {
+    "name": "Centanni",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Filippetti",
+    "pts": 11,
+    "played": true
+   }
+  ],
+  "coach": null
+ },
+ "quarters": [
+  [
+   13,
+   15
+  ],
+  [
+   16,
+   18
+  ],
+  [
+   11,
+   19
+  ],
+  [
+   11,
+   14
+  ]
+ ]
+}

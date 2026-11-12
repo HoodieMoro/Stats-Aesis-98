@@ -1,0 +1,147 @@
+{
+ "home": {
+  "label": "Vis Castelfidardo",
+  "players": [
+   {
+    "name": "Giantomasi",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Attili",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Gobbetti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Monaci",
+    "pts": 17,
+    "played": true
+   },
+   {
+    "name": "Bambozzi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Venturini",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Schiavoni",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Virgini",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Francioni",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Borsella",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Di Palma",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Massaccesi",
+    "pts": 2,
+    "played": true
+   }
+  ],
+  "coach": "Magrini"
+ },
+ "away": {
+  "label": "PB 1992 Polverigi Basket Blu",
+  "players": [
+   {
+    "name": "Maurelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Curina",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Catena",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Mazzoni",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Giaccaglia",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Frittella",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Balzani",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Rossi",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Risaliti",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Salemi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Baldini",
+    "pts": 5,
+    "played": true
+   }
+  ],
+  "coach": "Bonventi"
+ },
+ "quarters": [
+  [
+   14,
+   10
+  ],
+  [
+   15,
+   7
+  ],
+  [
+   13,
+   15
+  ],
+  [
+   16,
+   10
+  ]
+ ]
+}

@@ -1,0 +1,6544 @@
+{
+ "season": "2026/27",
+ "league": "Divisione Regionale 2 · Girone B",
+ "region": "FIP Marche",
+ "highlightTeam": "042467",
+ "updatedAt": "2026-11-12T17:31:28.154Z",
+ "sources": {
+  "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
+  "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
+  "basketmarche": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b"
+ },
+ "teams": [
+  {
+   "id": "042467",
+   "name": "Aesis '98 Jesi",
+   "short": "Aesis 98",
+   "venue": {
+    "name": "Palestra \"P.Novelli\"",
+    "address": "Via Del Prato 11",
+    "city": "Jesi",
+    "province": "AN"
+   }
+  },
+  {
+   "id": "000334",
+   "name": "Adriatico Ancona",
+   "short": "Adriatico",
+   "venue": {
+    "name": "Palestra Pietralacroce",
+    "address": "Via F.lli Zuccari",
+    "city": "Ancona",
+    "province": "AN"
+   }
+  },
+  {
+   "id": "056402",
+   "name": "Conero Razorbacks",
+   "short": "Razorbacks",
+   "venue": {
+    "name": "Palascherma",
+    "address": "Via Monte Pelago 10",
+    "city": "Ancona",
+    "province": "AN"
+   }
+  },
+  {
+   "id": "000568",
+   "name": "Montevalle Academy",
+   "short": "Montevalle",
+   "venue": {
+    "name": "Palasport Comunale",
+    "address": "L.go Donatori Del Sangue",
+    "city": "Chiaravalle",
+    "province": "AN"
+   }
+  },
+  {
+   "id": "052284",
+   "name": "Unione Basket 2010 Jesi",
+   "short": "Unione Basket",
+   "venue": {
+    "name": "Palestra MICS",
+    "address": "via Venezia - Moie",
+    "city": "Maiolati Spontini",
+    "province": "AN"
+   }
+  },
+  {
+   "id": "055995",
+   "name": "Gladiatores Matelica",
+   "short": "Gladiatores",
+   "venue": {
+    "name": "Palasport Matelica",
+    "address": "Borgo Nazario Sauro",
+    "city": "Matelica",
+    "province": "MC"
+   }
+  },
+  {
+   "id": "001433",
+   "name": "Vis Castelfidardo",
+   "short": "Vis Castelfidardo",
+   "venue": {
+    "name": "Palestra Scuole Elementari",
+    "address": "Via Rossini 137",
+    "city": "Castelfidardo",
+    "province": "AN"
+   }
+  },
+  {
+   "id": "030272",
+   "name": "PB 1992 Polverigi",
+   "short": "Polverigi",
+   "venue": {
+    "name": "Pal.dello Sport PALASIGE Alessio Pergolesi",
+    "address": "Via Circonvallazione",
+    "city": "Polverigi",
+    "province": "AN"
+   }
+  },
+  {
+   "id": "001423",
+   "name": "Falconara Basket",
+   "short": "Falconara",
+   "venue": {
+    "name": "Palestra 'G.Ferraris'",
+    "address": "Via Speri",
+    "city": "Falconara Marittima",
+    "province": "AN"
+   }
+  },
+  {
+   "id": "054458",
+   "name": "Project Basket Osimo",
+   "short": "Project Osimo",
+   "venue": {
+    "name": "Pallone Geodetico",
+    "address": "P.zza Bellini",
+    "city": "Osimo",
+    "province": "AN"
+   }
+  },
+  {
+   "id": "006291",
+   "name": "Pietralacroce 73 Ancona",
+   "short": "Pietralacroce",
+   "venue": {
+    "name": "Palestra G. Falcone",
+    "address": "Via Flavia",
+    "city": "Ancona",
+    "province": "AN"
+   }
+  },
+  {
+   "id": "051572",
+   "name": "Basket School Fabriano",
+   "short": "Basket School",
+   "venue": {
+    "name": "PALESTRA MAZZINI",
+    "address": "Via Fabbri Zona Borgo",
+    "city": "Fabriano",
+    "province": "AN"
+   }
+  }
+ ],
+ "standings": [
+  {
+   "team": "000334",
+   "pos": 1,
+   "played": 4,
+   "won": 4,
+   "lost": 0,
+   "pf": 338,
+   "pa": 225,
+   "points": 8,
+   "penalty": 0
+  },
+  {
+   "team": "056402",
+   "pos": 2,
+   "played": 3,
+   "won": 3,
+   "lost": 0,
+   "pf": 209,
+   "pa": 155,
+   "points": 6,
+   "penalty": 0
+  },
+  {
+   "team": "000568",
+   "pos": 3,
+   "played": 4,
+   "won": 3,
+   "lost": 1,
+   "pf": 244,
+   "pa": 188,
+   "points": 6,
+   "penalty": 0
+  },
+  {
+   "team": "052284",
+   "pos": 4,
+   "played": 4,
+   "won": 3,
+   "lost": 1,
+   "pf": 288,
+   "pa": 259,
+   "points": 6,
+   "penalty": 0
+  },
+  {
+   "team": "055995",
+   "pos": 5,
+   "played": 4,
+   "won": 3,
+   "lost": 1,
+   "pf": 268,
+   "pa": 250,
+   "points": 6,
+   "penalty": 0
+  },
+  {
+   "team": "001433",
+   "pos": 6,
+   "played": 4,
+   "won": 2,
+   "lost": 2,
+   "pf": 219,
+   "pa": 230,
+   "points": 4,
+   "penalty": 0
+  },
+  {
+   "team": "042467",
+   "pos": 7,
+   "played": 4,
+   "won": 2,
+   "lost": 2,
+   "pf": 249,
+   "pa": 269,
+   "points": 4,
+   "penalty": 0
+  },
+  {
+   "team": "030272",
+   "pos": 8,
+   "played": 3,
+   "won": 1,
+   "lost": 2,
+   "pf": 162,
+   "pa": 186,
+   "points": 2,
+   "penalty": 0
+  },
+  {
+   "team": "001423",
+   "pos": 9,
+   "played": 2,
+   "won": 1,
+   "lost": 1,
+   "pf": 95,
+   "pa": 128,
+   "points": 2,
+   "penalty": 0
+  },
+  {
+   "team": "054458",
+   "pos": 10,
+   "played": 4,
+   "won": 0,
+   "lost": 4,
+   "pf": 218,
+   "pa": 264,
+   "points": 0,
+   "penalty": 0
+  },
+  {
+   "team": "006291",
+   "pos": 11,
+   "played": 4,
+   "won": 0,
+   "lost": 4,
+   "pf": 215,
+   "pa": 270,
+   "points": 0,
+   "penalty": 0
+  },
+  {
+   "team": "051572",
+   "pos": 12,
+   "played": 4,
+   "won": 0,
+   "lost": 4,
+   "pf": 215,
+   "pa": 296,
+   "points": 0,
+   "penalty": 0
+  }
+ ],
+ "games": [
+  {
+   "id": "1115",
+   "round": 1,
+   "leg": 1,
+   "date": "2026-10-16",
+   "time": "20:30",
+   "home": "054458",
+   "away": "030272",
+   "homePts": 50,
+   "awayPts": 57,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Pallone Geodetico",
+    "address": "P.zza Bellini",
+    "city": "Osimo",
+    "province": "AN"
+   },
+   "referees": [
+    "Davide Sampaolesi",
+    "Riccardo Galassi"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/1",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/project-basket-osimo-pb-1992-polverigi-camerata-basket-blu-1-andata-divisione-regionale-2-girone-b/40206",
+    "quarters": [
+     [
+      16,
+      9
+     ],
+     [
+      17,
+      21
+     ],
+     [
+      6,
+      13
+     ],
+     [
+      11,
+      14
+     ]
+    ],
+    "home": [
+     {
+      "name": "Pettinari",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Biordi",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Giorgi",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Vescovo",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Tortù",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Santilli",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Martella",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Carletti D.",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Gradara",
+      "pts": 14,
+      "played": true
+     },
+     {
+      "name": "Carletti A.",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Nardini",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Farinelli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Curina",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Catena",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Mazzoni",
+      "pts": 16,
+      "played": true
+     },
+     {
+      "name": "Giaccaglia",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Frittella",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Balzani",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Rossi",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Risaliti",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Salemi",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Baldini",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Cantarini",
+      "pts": 5,
+      "played": true
+     }
+    ],
+    "homeCoach": "Mosca",
+    "awayCoach": "Bonventi",
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1119",
+   "round": 1,
+   "leg": 1,
+   "date": "2026-10-16",
+   "time": "20:30",
+   "home": "052284",
+   "away": "042467",
+   "homePts": 83,
+   "awayPts": 60,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palestra MICS",
+    "address": "via Venezia - Moie",
+    "city": "Maiolati Spontini",
+    "province": "AN"
+   },
+   "referees": [
+    "Giovanni Andrea Molinaro",
+    "Francesco Uncini"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/1",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/unione-basket-2010-jesi-aesis-98-jesi-1-andata-divisione-regionale-2-girone-b/40208",
+    "quarters": [
+     [
+      22,
+      13
+     ],
+     [
+      18,
+      11
+     ],
+     [
+      17,
+      24
+     ],
+     [
+      26,
+      12
+     ]
+    ],
+    "home": [
+     {
+      "name": "Ferretti",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Kurti",
+      "pts": 11,
+      "played": true
+     },
+     {
+      "name": "Brugnoni",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Greganti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Cioccolanti",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Santoni",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Feo",
+      "pts": 12,
+      "played": true
+     },
+     {
+      "name": "Palumbo",
+      "pts": 19,
+      "played": true
+     },
+     {
+      "name": "Sbarbati",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Palmucci",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Corinaldesi",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Pergolesi",
+      "pts": 13,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Sami Slama",
+      "pts": 20,
+      "played": true
+     },
+     {
+      "name": "Morresi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Lardinelli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Ogiemwonyi",
+      "pts": 15,
+      "played": true
+     },
+     {
+      "name": "Cardinali",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Sebastianelli",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Montanari",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Moretti",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Brutti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Agusti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Nemchenko",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Sabri Slama",
+      "pts": 7,
+      "played": true
+     }
+    ],
+    "homeCoach": "Pepa",
+    "awayCoach": "Mosca",
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1120",
+   "round": 1,
+   "leg": 1,
+   "date": "2026-10-16",
+   "time": "21:15",
+   "home": "001433",
+   "away": "051572",
+   "homePts": 57,
+   "awayPts": 41,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palestra Scuole Elementari",
+    "address": "Via Rossini 137",
+    "city": "Castelfidardo",
+    "province": "AN"
+   },
+   "referees": [
+    "Erika Filippetti",
+    "Tommaso Caporalini"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/1",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/vis-castelfidardo-basket-school-fabriano-1-andata-divisione-regionale-2-girone-b/40209",
+    "quarters": [
+     [
+      13,
+      8
+     ],
+     [
+      19,
+      12
+     ],
+     [
+      18,
+      14
+     ],
+     [
+      7,
+      7
+     ]
+    ],
+    "home": [
+     {
+      "name": "Giantomasi",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Attili",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Gobbetti",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Monaci",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Bambozzi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Schiavoni",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Virgini",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Marrazzo",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Francioni",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Borsella",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Di Palma",
+      "pts": 1,
+      "played": true
+     },
+     {
+      "name": "Massaccesi",
+      "pts": 11,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Gasparrini",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Pellacchia",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Onesta D.",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Caporali",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Pierotti",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Mosciatti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Palazzi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Cardarelli",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Paoletti",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Stefanelli",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Onesta J.",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Lupacchini",
+      "pts": 5,
+      "played": true
+     }
+    ],
+    "homeCoach": "Magrini",
+    "awayCoach": "Gentili",
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1116",
+   "round": 1,
+   "leg": 1,
+   "date": "2026-10-16",
+   "time": "21:30",
+   "home": "056402",
+   "away": "006291",
+   "homePts": 62,
+   "awayPts": 44,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palascherma",
+    "address": "Via Monte Pelago 10",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [
+    "Mattia Sisi",
+    "Gabriele Rao"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/1",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/conero-razorbacks-pietralacroce-73-ancona-1-andata-divisione-regionale-2-girone-b/40207",
+    "quarters": [
+     [
+      17,
+      21
+     ],
+     [
+      14,
+      6
+     ],
+     [
+      20,
+      9
+     ],
+     [
+      11,
+      8
+     ]
+    ],
+    "home": [
+     {
+      "name": "Conte",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Campanella",
+      "pts": 13,
+      "played": true
+     },
+     {
+      "name": "Battagli",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Bartocci",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Trovamala",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Iurini",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Alcidi",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Giacchetti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Lanari",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Ponzella",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Centanni",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Filippetti",
+      "pts": 2,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Petrolini",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Papini",
+      "pts": 14,
+      "played": true
+     },
+     {
+      "name": "Giuliodori",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Granato",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Fioroni",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Corvaro",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Ratti",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Bellesi",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Anzini",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Ciattaglia",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Ansevini",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Osimani",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "homeCoach": "Cingolani",
+    "awayCoach": "Luconi",
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1117",
+   "round": 1,
+   "leg": 1,
+   "date": "2026-10-17",
+   "time": "19:00",
+   "home": "000334",
+   "away": "055995",
+   "homePts": 79,
+   "awayPts": 42,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palestra Pietralacroce",
+    "address": "Via F.lli Zuccari",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [
+    "Lorenzo Cotellessa",
+    "Francesco Campanelli"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/1",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/adriatico-ancona-gladiatores-matelica-1-andata-divisione-regionale-2-girone-b/40210",
+    "quarters": [
+     [
+      16,
+      10
+     ],
+     [
+      12,
+      15
+     ],
+     [
+      27,
+      9
+     ],
+     [
+      24,
+      8
+     ]
+    ],
+    "home": [
+     {
+      "name": "Vitali Fi.",
+      "pts": 1,
+      "played": true
+     },
+     {
+      "name": "Lambiase",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Vitali Fe.",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Scabini",
+      "pts": 16,
+      "played": true
+     },
+     {
+      "name": "Ripanti",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Ciarrocchi",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Cecconi",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Gasparrini F.",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Di Felice",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Osimani",
+      "pts": 11,
+      "played": true
+     },
+     {
+      "name": "Gasparrini A.",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Naspi",
+      "pts": 8,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Porcarelli D.",
+      "pts": 12,
+      "played": true
+     },
+     {
+      "name": "Boni",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Brugnola",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Mori",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Chukwuebuka",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Cingolani",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Picchietti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Fenucci",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Gentilucci",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Orsini",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Cipriani",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Ferretti",
+      "pts": 10,
+      "played": true
+     }
+    ],
+    "homeCoach": "Gasparrini M",
+    "awayCoach": "Porcarelli R",
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1118",
+   "round": 1,
+   "leg": 1,
+   "date": "2026-10-20",
+   "time": "21:30",
+   "home": "000568",
+   "away": "001423",
+   "homePts": 74,
+   "awayPts": 35,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palasport Comunale",
+    "address": "L.go Donatori Del Sangue",
+    "city": "Chiaravalle",
+    "province": "AN"
+   },
+   "referees": [
+    "Lorenzo Cotellessa",
+    "Gabriele Rao"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/1",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/montevalle-academy-falconara-basket-1-andata-divisione-regionale-2-girone-b/40211",
+    "quarters": [
+     [
+      12,
+      15
+     ],
+     [
+      22,
+      3
+     ],
+     [
+      20,
+      10
+     ],
+     [
+      20,
+      7
+     ]
+    ],
+    "home": [
+     {
+      "name": "Mosca",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Ferri",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Guidi",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Paolinelli",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Carbonaro",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Burzacchini",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Gigli",
+      "pts": 22,
+      "played": true
+     },
+     {
+      "name": "Castelli",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Carbonari",
+      "pts": 17,
+      "played": true
+     },
+     {
+      "name": "Crinelli",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Pignatiello",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Epstein",
+      "pts": 8,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Gambelli",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Bianchi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Cardinali G.",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Cardinali M.",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Latini",
+      "pts": 12,
+      "played": true
+     },
+     {
+      "name": "Spaccesi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Dottori",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "D'Archivio",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Gramazio",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Moretti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Martino",
+      "pts": 2,
+      "played": true
+     }
+    ],
+    "homeCoach": null,
+    "awayCoach": null,
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1122",
+   "round": 2,
+   "leg": 1,
+   "date": "2026-10-21",
+   "time": "21:30",
+   "home": "030272",
+   "away": "000334",
+   "homePts": 63,
+   "awayPts": 78,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Pal.dello Sport PALASIGE Alessio Pergolesi",
+    "address": "Via Circonvallazione",
+    "city": "Polverigi",
+    "province": "AN"
+   },
+   "referees": [
+    "Marco Angeloni",
+    "Lorenzo Cotellessa"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/2",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/pb-1992-polverigi-camerata-basket-blu-adriatico-ancona-2-andata-divisione-regionale-2-girone-b/40430",
+    "quarters": [
+     [
+      16,
+      27
+     ],
+     [
+      16,
+      19
+     ],
+     [
+      7,
+      16
+     ],
+     [
+      24,
+      16
+     ]
+    ],
+    "home": [
+     {
+      "name": "Farinelli",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Curina",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Catena",
+      "pts": 17,
+      "played": true
+     },
+     {
+      "name": "Mazzoni",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Giaccaglia",
+      "pts": 12,
+      "played": true
+     },
+     {
+      "name": "Frittella",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Balzani",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Rossi",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Risaliti",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Sbaffo",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Salemi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Baldini",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Vitali Fi.",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Lambiase",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Vitali Fe.",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Ripanti",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Ciarrocchi",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Cecconi",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Gasparrini F.",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Di Felice",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Scabini",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Osimani",
+      "pts": 18,
+      "played": true
+     },
+     {
+      "name": "Gasparrini A.",
+      "pts": 1,
+      "played": true
+     },
+     {
+      "name": "Naspi",
+      "pts": 14,
+      "played": true
+     }
+    ],
+    "homeCoach": "Bonventi",
+    "awayCoach": "Gasparrini M",
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1124",
+   "round": 2,
+   "leg": 1,
+   "date": "2026-10-23",
+   "time": "20:30",
+   "home": "051572",
+   "away": "042467",
+   "homePts": 72,
+   "awayPts": 77,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "PALESTRA MAZZINI",
+    "address": "Via Fabbri Zona Borgo",
+    "city": "Fabriano",
+    "province": "AN"
+   },
+   "referees": [
+    "Asia Mancini",
+    "Italo Adinolfi"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/2",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/basket-school-fabriano-aesis-98-jesi-2-andata-divisione-regionale-2-girone-b/40432",
+    "quarters": [
+     [
+      18,
+      17
+     ],
+     [
+      19,
+      22
+     ],
+     [
+      19,
+      16
+     ],
+     [
+      16,
+      22
+     ]
+    ],
+    "home": [
+     {
+      "name": "Gasparrini",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Pellacchia",
+      "pts": 15,
+      "played": true
+     },
+     {
+      "name": "Caldarigi",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Caporali",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Pierotti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Mosciatti",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Palazzi",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Cardarelli",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Paoletti",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Stefanelli",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Onesta J.",
+      "pts": 15,
+      "played": true
+     },
+     {
+      "name": "Lupacchini",
+      "pts": 23,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Sami Slama",
+      "pts": 17,
+      "played": true
+     },
+     {
+      "name": "Mosca",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Lardinelli",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Ogiemwonyi",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Santinelli",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Ceccarelli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Sebastianelli",
+      "pts": 12,
+      "played": true
+     },
+     {
+      "name": "Moretti",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Brutti",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Agusti",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Nemchenko",
+      "pts": 20,
+      "played": true
+     },
+     {
+      "name": "Sabri Slama",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "homeCoach": "Gentili",
+    "awayCoach": "Mosca",
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1125",
+   "round": 2,
+   "leg": 1,
+   "date": "2026-10-23",
+   "time": "20:30",
+   "home": "052284",
+   "away": "006291",
+   "homePts": 66,
+   "awayPts": 57,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palestra MICS",
+    "address": "via Venezia - Moie",
+    "city": "Maiolati Spontini",
+    "province": "AN"
+   },
+   "referees": [
+    "Francesco Boldrini",
+    "Valentino Prioretti"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/2",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/unione-basket-2010-jesi-pietralacroce-73-ancona-2-andata-divisione-regionale-2-girone-b/40433",
+    "quarters": [
+     [
+      19,
+      13
+     ],
+     [
+      16,
+      19
+     ],
+     [
+      16,
+      16
+     ],
+     [
+      15,
+      9
+     ]
+    ],
+    "home": [
+     {
+      "name": "Ferretti",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Kurti",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Brugnoni",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Greganti",
+      "pts": 12,
+      "played": true
+     },
+     {
+      "name": "Pergolini",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Santoni",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Feo",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Palumbo",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Sbarbati",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Duca",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Corinaldesi",
+      "pts": 11,
+      "played": true
+     },
+     {
+      "name": "Costarelli",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Petrolini",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Papini",
+      "pts": 11,
+      "played": true
+     },
+     {
+      "name": "Agostinelli",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Giuliodori",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Granato",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Corvaro",
+      "pts": 14,
+      "played": true
+     },
+     {
+      "name": "Ratti",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Ansevini L.",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Bellesi",
+      "pts": 11,
+      "played": true
+     },
+     {
+      "name": "Anzini",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Ciattaglia",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Ansevini D.",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "homeCoach": "Pepa",
+    "awayCoach": "Luconi",
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1123",
+   "round": 2,
+   "leg": 1,
+   "date": "2026-10-23",
+   "time": "21:15",
+   "home": "055995",
+   "away": "001433",
+   "homePts": 81,
+   "awayPts": 53,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palasport Matelica",
+    "address": "Borgo Nazario Sauro",
+    "city": "Matelica",
+    "province": "MC"
+   },
+   "referees": [
+    "Delio Camporeale",
+    "Livio Carucci"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/2",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/gladiatores-matelica-vis-castelfidardo-2-andata-divisione-regionale-2-girone-b/40431",
+    "quarters": [
+     [
+      23,
+      15
+     ],
+     [
+      16,
+      21
+     ],
+     [
+      29,
+      9
+     ],
+     [
+      13,
+      8
+     ]
+    ],
+    "home": [
+     {
+      "name": "Porcarelli D.",
+      "pts": 20,
+      "played": true
+     },
+     {
+      "name": "Boni",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Brugnola",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Offor",
+      "pts": 13,
+      "played": true
+     },
+     {
+      "name": "Cingolani",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Sacco",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Picchietti",
+      "pts": 1,
+      "played": true
+     },
+     {
+      "name": "Zamparini",
+      "pts": 26,
+      "played": true
+     },
+     {
+      "name": "Fenucci",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Gentilucci",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Orsini",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Ferretti",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Attili",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Gobbetti",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Monaci",
+      "pts": 19,
+      "played": true
+     },
+     {
+      "name": "Bambozzi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Venturini",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Schiavoni",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Virgini",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Marrazzo",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Francioni",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Borsella",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Di Palma",
+      "pts": 1,
+      "played": true
+     },
+     {
+      "name": "Massaccesi",
+      "pts": 6,
+      "played": true
+     }
+    ],
+    "homeCoach": "Porcarelli R",
+    "awayCoach": "Magrini",
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1126",
+   "round": 2,
+   "leg": 1,
+   "date": "2026-10-23",
+   "time": "21:30",
+   "home": "000568",
+   "away": "054458",
+   "homePts": 59,
+   "awayPts": 45,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palasport Comunale",
+    "address": "L.go Donatori Del Sangue",
+    "city": "Chiaravalle",
+    "province": "AN"
+   },
+   "referees": [
+    "Mattia Sisi",
+    "Gabriele Rao"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/2",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/montevalle-academy-project-basket-osimo-2-andata-divisione-regionale-2-girone-b/40434",
+    "quarters": [
+     [
+      20,
+      8
+     ],
+     [
+      12,
+      16
+     ],
+     [
+      10,
+      10
+     ],
+     [
+      17,
+      11
+     ]
+    ],
+    "home": [
+     {
+      "name": "Mosca",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Ferri",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Guidi",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Paolinelli",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Carbonaro",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Burzacchini",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Gigli",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Castelli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Carbonari",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Petrolati",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Catani",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Epstein",
+      "pts": 12,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Pettinari",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Biordi",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Giorgi",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Vescovo",
+      "pts": 12,
+      "played": true
+     },
+     {
+      "name": "Tortù",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Santilli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Martella",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Strappato",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Carletti D.",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Carletti A.",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Nardini",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "homeCoach": null,
+    "awayCoach": "Mosca",
+    "check": "mismatch"
+   }
+  },
+  {
+   "id": "1121",
+   "round": 2,
+   "leg": 1,
+   "date": "2026-11-25",
+   "time": "21:45",
+   "home": "056402",
+   "away": "001423",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "designata",
+   "venue": {
+    "name": "Palascherma",
+    "address": "Via Monte Pelago 10",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [
+    "Francesco Bertolasi"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/2"
+  },
+  {
+   "id": "1127",
+   "round": 3,
+   "leg": 1,
+   "date": "2026-10-30",
+   "time": "21:15",
+   "home": "001433",
+   "away": "030272",
+   "homePts": 58,
+   "awayPts": 42,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palestra Scuole Elementari",
+    "address": "Via Rossini 137",
+    "city": "Castelfidardo",
+    "province": "AN"
+   },
+   "referees": [
+    "Tommaso Caporalini",
+    "Mattia Sisi"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/3",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/vis-castelfidardo-pb-1992-polverigi-camerata-basket-blu-3-andata-divisione-regionale-2-girone-b/40789",
+    "quarters": [
+     [
+      14,
+      10
+     ],
+     [
+      15,
+      7
+     ],
+     [
+      13,
+      15
+     ],
+     [
+      16,
+      10
+     ]
+    ],
+    "home": [
+     {
+      "name": "Giantomasi",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Attili",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Gobbetti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Monaci",
+      "pts": 17,
+      "played": true
+     },
+     {
+      "name": "Bambozzi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Venturini",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Schiavoni",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Virgini",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Francioni",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Borsella",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Di Palma",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Massaccesi",
+      "pts": 2,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Maurelli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Curina",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Catena",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Mazzoni",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Giaccaglia",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Frittella",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Balzani",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Rossi",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Risaliti",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Salemi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Baldini",
+      "pts": 5,
+      "played": true
+     }
+    ],
+    "homeCoach": "Magrini",
+    "awayCoach": "Bonventi",
+    "check": "mismatch"
+   }
+  },
+  {
+   "id": "1129",
+   "round": 3,
+   "leg": 1,
+   "date": "2026-10-30",
+   "time": "21:30",
+   "home": "042467",
+   "away": "055995",
+   "homePts": 65,
+   "awayPts": 72,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palestra \"P.Novelli\"",
+    "address": "Via Del Prato 11",
+    "city": "Jesi",
+    "province": "AN"
+   },
+   "referees": [
+    "Italo Adinolfi",
+    "Giovanni Cegna"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/3",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/aesis-98-jesi-gladiatores-matelica-3-andata-divisione-regionale-2-girone-b/40790",
+    "quarters": [
+     [
+      18,
+      10
+     ],
+     [
+      13,
+      17
+     ],
+     [
+      17,
+      27
+     ],
+     [
+      17,
+      18
+     ]
+    ],
+    "home": [
+     {
+      "name": "Sami Slama",
+      "pts": 15,
+      "played": true
+     },
+     {
+      "name": "Lardinelli",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Ogiemwonyi",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Cardinali",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Ceccarelli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Sebastianelli",
+      "pts": 15,
+      "played": true
+     },
+     {
+      "name": "Montanari",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Moretti",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Brutti",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Nemchenko",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Sabri Slama",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Stronati",
+      "pts": 4,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Mecella",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Porcarelli",
+      "pts": 20,
+      "played": true
+     },
+     {
+      "name": "Boni",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Brugnola",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Mori",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Offor",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Cingolani",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Sacco",
+      "pts": 17,
+      "played": true
+     },
+     {
+      "name": "Picchietti",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Zamparini",
+      "pts": 14,
+      "played": true
+     },
+     {
+      "name": "Fenucci",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Orsini",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "homeCoach": "Moscaa",
+    "awayCoach": "Porcarelli",
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1130",
+   "round": 3,
+   "leg": 1,
+   "date": "2026-10-30",
+   "time": "21:30",
+   "home": "056402",
+   "away": "054458",
+   "homePts": 81,
+   "awayPts": 60,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palascherma",
+    "address": "Via Monte Pelago 10",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [
+    "Davide Sampaolesi",
+    "Riccardo Galassi"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/3",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/conero-razorbacks-project-basket-osimo-3-andata-divisione-regionale-2-girone-b/40791",
+    "quarters": [
+     [
+      17,
+      22
+     ],
+     [
+      22,
+      21
+     ],
+     [
+      21,
+      9
+     ],
+     [
+      21,
+      8
+     ]
+    ],
+    "home": [
+     {
+      "name": "Esposito",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Conte",
+      "pts": 11,
+      "played": true
+     },
+     {
+      "name": "Campanella",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Battagli",
+      "pts": 14,
+      "played": true
+     },
+     {
+      "name": "Bartocci",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Trovamala",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Alcidi",
+      "pts": 1,
+      "played": true
+     },
+     {
+      "name": "Giacchetti",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Ponzella",
+      "pts": 17,
+      "played": true
+     },
+     {
+      "name": "Centanni",
+      "pts": 15,
+      "played": true
+     },
+     {
+      "name": "Filippetti",
+      "pts": 5,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Biordi",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Vescovo",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Tortù",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Santilli",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Martella",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Strappato",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Carletti D.",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Gradara",
+      "pts": 11,
+      "played": true
+     },
+     {
+      "name": "Carletti A.",
+      "pts": 12,
+      "played": true
+     },
+     {
+      "name": "Nardini",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Carletti A.",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Belardinelli",
+      "pts": null,
+      "played": false
+     }
+    ],
+    "homeCoach": "Cingolani",
+    "awayCoach": "Mosca",
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1131",
+   "round": 3,
+   "leg": 1,
+   "date": "2026-10-30",
+   "time": "21:30",
+   "home": "006291",
+   "away": "000568",
+   "homePts": 61,
+   "awayPts": 69,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palestra G. Falcone",
+    "address": "Via Flavia",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [
+    "Andrea Righi",
+    "Daniele Bruschi"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/3",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/pietralacroce-73-ancona-montevalle-academy-3-andata-divisione-regionale-2-girone-b/40792",
+    "quarters": [
+     [
+      8,
+      11
+     ],
+     [
+      20,
+      22
+     ],
+     [
+      13,
+      16
+     ],
+     [
+      20,
+      20
+     ]
+    ],
+    "home": [
+     {
+      "name": "Papini",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Petrolini",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Giuliodori",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Granato",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Corvaro",
+      "pts": 14,
+      "played": true
+     },
+     {
+      "name": "Ratti",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Osimani",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Bellesi",
+      "pts": 19,
+      "played": true
+     },
+     {
+      "name": "Anzini",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Ciattaglia",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Ansevini D.",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Ansevini L.",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Mosca",
+      "pts": 13,
+      "played": true
+     },
+     {
+      "name": "Guidi",
+      "pts": 14,
+      "played": true
+     },
+     {
+      "name": "Paolinelli",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Carbonaro",
+      "pts": 1,
+      "played": true
+     },
+     {
+      "name": "Burzacchini",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Castelli",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Carbonari",
+      "pts": 19,
+      "played": true
+     },
+     {
+      "name": "Vallesi",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Crinelli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Catani",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Epstein",
+      "pts": 8,
+      "played": true
+     }
+    ],
+    "homeCoach": "Luconi",
+    "awayCoach": null,
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1132",
+   "round": 3,
+   "leg": 1,
+   "date": "2026-10-30",
+   "time": "21:30",
+   "home": "001423",
+   "away": "051572",
+   "homePts": 60,
+   "awayPts": 54,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palestra 'G.Ferraris'",
+    "address": "Via Speri",
+    "city": "Falconara Marittima",
+    "province": "AN"
+   },
+   "referees": [
+    "Alessandro Di Lello",
+    "Erika Filippetti"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/3",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/falconara-basket-basket-school-fabriano-3-andata-divisione-regionale-2-girone-b/40793",
+    "quarters": [
+     [
+      16,
+      19
+     ],
+     [
+      14,
+      14
+     ],
+     [
+      12,
+      10
+     ],
+     [
+      18,
+      11
+     ]
+    ],
+    "home": [
+     {
+      "name": "Gambelli",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Bianchi",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Cardinali G.",
+      "pts": 12,
+      "played": true
+     },
+     {
+      "name": "Cardinali M.",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Latini",
+      "pts": 15,
+      "played": true
+     },
+     {
+      "name": "Ogiemwonyi",
+      "pts": 11,
+      "played": true
+     },
+     {
+      "name": "Spaccesi",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Dottori",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "D'Archivio",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Gramazio",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Martino",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Giampieri",
+      "pts": 10,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Gasparrini",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Pellacchia",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Caldarigi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Caporali",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Pierotti",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Mosciatti",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Palazzi",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Cardarelli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Paoletti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Stefanelli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Onesta J.",
+      "pts": 21,
+      "played": true
+     },
+     {
+      "name": "Lupacchini",
+      "pts": 5,
+      "played": true
+     }
+    ],
+    "homeCoach": null,
+    "awayCoach": "Gentili",
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1128",
+   "round": 3,
+   "leg": 1,
+   "date": "2026-10-31",
+   "time": "19:00",
+   "home": "000334",
+   "away": "052284",
+   "homePts": 79,
+   "awayPts": 72,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palestra Pietralacroce",
+    "address": "Via F.lli Zuccari",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [
+    "Tommaso Mattioli",
+    "Daniele Bruschi"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/3",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/adriatico-ancona-unione-basket-2010-jesi-3-andata-divisione-regionale-2-girone-b/40794",
+    "quarters": [
+     [
+      22,
+      27
+     ],
+     [
+      19,
+      27
+     ],
+     [
+      15,
+      10
+     ],
+     [
+      23,
+      8
+     ]
+    ],
+    "home": [
+     {
+      "name": "Ferretti",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Tamburini",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Bedetti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Scabini",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Ripanti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Ciarrocchi",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Cecconi",
+      "pts": 11,
+      "played": true
+     },
+     {
+      "name": "Gasparrini F.",
+      "pts": 11,
+      "played": true
+     },
+     {
+      "name": "Di Felice",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Osimani",
+      "pts": 26,
+      "played": true
+     },
+     {
+      "name": "Gasparrini A.",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Catana Vallemani",
+      "pts": 2,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Ferretti",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Kurti",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Brugnoni",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Greganti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Santoni",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Feo",
+      "pts": 12,
+      "played": true
+     },
+     {
+      "name": "Palumbo",
+      "pts": 19,
+      "played": true
+     },
+     {
+      "name": "Palmucci",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Corinaldesi",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Pergolesi",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Duca",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Pergolini",
+      "pts": 10,
+      "played": true
+     }
+    ],
+    "homeCoach": "Gasparrini M",
+    "awayCoach": "Pepa",
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1135",
+   "round": 4,
+   "leg": 1,
+   "date": "2026-11-05",
+   "time": "21:15",
+   "home": "001433",
+   "away": "056402",
+   "homePts": 51,
+   "awayPts": 66,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palestra Scuole Elementari",
+    "address": "Via Rossini 137",
+    "city": "Castelfidardo",
+    "province": "AN"
+   },
+   "referees": [
+    "Tommaso Caporalini",
+    "Alessandro Di Lello"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/4",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/vis-castelfidardo-conero-razorbacks-4-andata-divisione-regionale-2-girone-b/41128",
+    "quarters": [
+     [
+      13,
+      15
+     ],
+     [
+      16,
+      18
+     ],
+     [
+      11,
+      19
+     ],
+     [
+      11,
+      14
+     ]
+    ],
+    "home": [
+     {
+      "name": "Giantomasi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Attili",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Gobbetti",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Monaci",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Marrazzo",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Venturini",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Schiavoni",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Virgini",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Francioni",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Borsella",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Di Palma",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Massaccesi",
+      "pts": 9,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Esposito",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Conte",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Lanari",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Battagli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Bartocci",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Trovamala",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Alcidi",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Giacchetti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Ponzella",
+      "pts": 11,
+      "played": true
+     },
+     {
+      "name": "Centanni",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Filippetti",
+      "pts": 11,
+      "played": true
+     }
+    ],
+    "homeCoach": null,
+    "awayCoach": null,
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1133",
+   "round": 4,
+   "leg": 1,
+   "date": "2026-11-06",
+   "time": "20:30",
+   "home": "051572",
+   "away": "000334",
+   "homePts": 48,
+   "awayPts": 102,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "PALESTRA MAZZINI",
+    "address": "Via Fabbri Zona Borgo",
+    "city": "Fabriano",
+    "province": "AN"
+   },
+   "referees": [
+    "Asia Mancini",
+    "Italo Adinolfi"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/4",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/basket-school-fabriano-adriatico-ancona-4-andata-divisione-regionale-2-girone-b/41129",
+    "quarters": [
+     [
+      17,
+      29
+     ],
+     [
+      15,
+      16
+     ],
+     [
+      4,
+      31
+     ],
+     [
+      12,
+      26
+     ]
+    ],
+    "home": [
+     {
+      "name": "Gasparrini",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Pellacchia",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Caldarigi",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Caporali M.",
+      "pts": 13,
+      "played": true
+     },
+     {
+      "name": "Pierotti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Mosciatti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Staffaroni",
+      "pts": 16,
+      "played": true
+     },
+     {
+      "name": "Caporali G.",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Paoletti",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Stefanelli",
+      "pts": 2,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Lambiase",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Vitali Fe.",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Ripanti",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Ciarrocchi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Cecconi",
+      "pts": 13,
+      "played": true
+     },
+     {
+      "name": "Gasparrini F.",
+      "pts": 21,
+      "played": true
+     },
+     {
+      "name": "Di Felice",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Osimani",
+      "pts": 19,
+      "played": true
+     },
+     {
+      "name": "Gasparrini A.",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Naspi",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Scabini",
+      "pts": 18,
+      "played": true
+     },
+     {
+      "name": "Tamburini",
+      "pts": 10,
+      "played": true
+     }
+    ],
+    "homeCoach": "Gentili",
+    "awayCoach": "Gasparrini M",
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1138",
+   "round": 4,
+   "leg": 1,
+   "date": "2026-11-06",
+   "time": "20:30",
+   "home": "052284",
+   "away": "054458",
+   "homePts": 67,
+   "awayPts": 63,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palestra MICS",
+    "address": "via Venezia - Moie",
+    "city": "Maiolati Spontini",
+    "province": "AN"
+   },
+   "referees": [
+    "Giovanni Cegna",
+    "Giovanni Andrea Molinaro"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/4",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/unione-basket-2010-jesi-project-basket-osimo-4-andata-divisione-regionale-2-girone-b/41132",
+    "quarters": [
+     [
+      16,
+      16
+     ],
+     [
+      15,
+      24
+     ],
+     [
+      15,
+      13
+     ],
+     [
+      21,
+      10
+     ]
+    ],
+    "home": [
+     {
+      "name": "Kurti",
+      "pts": 1,
+      "played": true
+     },
+     {
+      "name": "Brugnoni",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Greganti",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Cioccolanti",
+      "pts": 1,
+      "played": true
+     },
+     {
+      "name": "Santoni",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Feo",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Palumbo",
+      "pts": 25,
+      "played": true
+     },
+     {
+      "name": "Palmucci",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Pergolesi",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Pergolini",
+      "pts": 17,
+      "played": true
+     },
+     {
+      "name": "Duca",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Costarelli",
+      "pts": 2,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Biordi",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Vescovo",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Santilli",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Martella",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Strappato",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Carletti D.",
+      "pts": 17,
+      "played": true
+     },
+     {
+      "name": "Gradara",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Carletti A.",
+      "pts": 13,
+      "played": true
+     },
+     {
+      "name": "Nardini",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Pettinari",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Giorgi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Angelucci",
+      "pts": null,
+      "played": false
+     }
+    ],
+    "homeCoach": "Pepa",
+    "awayCoach": "Mosca",
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1136",
+   "round": 4,
+   "leg": 1,
+   "date": "2026-11-06",
+   "time": "21:15",
+   "home": "055995",
+   "away": "006291",
+   "homePts": 73,
+   "awayPts": 53,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palasport Matelica",
+    "address": "Borgo Nazario Sauro",
+    "city": "Matelica",
+    "province": "MC"
+   },
+   "referees": [
+    "Jacopo Sperandini",
+    "Giorgia Minerva"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/4",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/gladiatores-matelica-pietralacroce-73-ancona-4-andata-divisione-regionale-2-girone-b/41131",
+    "quarters": [
+     [
+      22,
+      19
+     ],
+     [
+      20,
+      20
+     ],
+     [
+      18,
+      4
+     ],
+     [
+      13,
+      10
+     ]
+    ],
+    "home": [
+     {
+      "name": "Haderi",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Porcarelli D.",
+      "pts": 15,
+      "played": true
+     },
+     {
+      "name": "Boni",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Brugnola",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Mori",
+      "pts": 14,
+      "played": true
+     },
+     {
+      "name": "Offor",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Sacco",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Picchietti",
+      "pts": 1,
+      "played": true
+     },
+     {
+      "name": "Zamparini",
+      "pts": 15,
+      "played": true
+     },
+     {
+      "name": "Orsini",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Odai",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Ferretti",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Agostinelli",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Petrolini",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Marcellini",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Granato",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Corvaro",
+      "pts": 20,
+      "played": true
+     },
+     {
+      "name": "Ratti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Bellesi",
+      "pts": 11,
+      "played": true
+     },
+     {
+      "name": "Anzini",
+      "pts": 1,
+      "played": true
+     },
+     {
+      "name": "Ciattaglia",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Ansevini D.",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Ansevini L.",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "homeCoach": "Porcarelli R",
+    "awayCoach": "Luconi",
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1134",
+   "round": 4,
+   "leg": 1,
+   "date": "2026-11-06",
+   "time": "21:30",
+   "home": "000568",
+   "away": "042467",
+   "homePts": 42,
+   "awayPts": 47,
+   "played": true,
+   "status": "omologata",
+   "venue": {
+    "name": "Palasport Comunale",
+    "address": "L.go Donatori Del Sangue",
+    "city": "Chiaravalle",
+    "province": "AN"
+   },
+   "referees": [
+    "Alessandro Di Lello",
+    "Marco Angeloni"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/4",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/montevalle-academy-aesis-98-jesi-4-andata-divisione-regionale-2-girone-b/41130",
+    "quarters": [
+     [
+      11,
+      13
+     ],
+     [
+      3,
+      13
+     ],
+     [
+      14,
+      15
+     ],
+     [
+      14,
+      6
+     ]
+    ],
+    "home": [
+     {
+      "name": "Mosca",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Ferri",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Guidi",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Paolinelli",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Carbonaro",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Burzacchini",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Gigli",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Castelli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Carbonari",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Crinelli",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Catani",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Epstein",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Sami Slama",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Mosca",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Ogiemwonyi",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Cardinali",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Sebastianelli",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Montanari",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Brutti",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Nemchenko",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Sabri Slama",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Stronati",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Lardinelli",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Agusti",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "homeCoach": null,
+    "awayCoach": "Mosca",
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1137",
+   "round": 4,
+   "leg": 1,
+   "date": "2026-11-11",
+   "time": "21:30",
+   "home": "030272",
+   "away": "001423",
+   "homePts": 77,
+   "awayPts": 38,
+   "played": true,
+   "status": "designata",
+   "venue": {
+    "name": "Pal.dello Sport PALASIGE Alessio Pergolesi",
+    "address": "Via Circonvallazione",
+    "city": "Polverigi",
+    "province": "AN"
+   },
+   "referees": [
+    "Giovanni Andrea Molinaro",
+    "Giovanni Cegna"
+   ],
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/4",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/pb-1992-polverigi-camerata-basket-blu-falconara-basket-4-andata-divisione-regionale-2-girone-b/41133",
+    "quarters": [
+     [
+      19,
+      10
+     ],
+     [
+      13,
+      11
+     ],
+     [
+      26,
+      11
+     ],
+     [
+      19,
+      6
+     ]
+    ],
+    "home": [
+     {
+      "name": "Maurelli",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Curina",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Catena",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Mazzoni",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Frittella",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Balzani",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Rossi",
+      "pts": 13,
+      "played": true
+     },
+     {
+      "name": "Risaliti",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Salemi",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Baldini",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Sbaffo",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Messina",
+      "pts": 3,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Gambelli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Bianchi",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Cardinali G.",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Cardinali M.",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Latini",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Ogiemwonyi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Dottori",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Martino",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Giampieri L.",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Ciaffi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Giampieri T.",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Moretti",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "homeCoach": "Bonventi",
+    "awayCoach": null,
+    "check": "ok"
+   }
+  },
+  {
+   "id": "1140",
+   "round": 5,
+   "leg": 1,
+   "date": "2026-11-13",
+   "time": "20:30",
+   "home": "054458",
+   "away": "055995",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "designata",
+   "venue": {
+    "name": "Pallone Geodetico",
+    "address": "P.zza Bellini",
+    "city": "Osimo",
+    "province": "AN"
+   },
+   "referees": [
+    "Lorenzo Cotellessa",
+    "Erika Filippetti"
+   ],
+   "source": "fip-api"
+  },
+  {
+   "id": "1143",
+   "round": 5,
+   "leg": 1,
+   "date": "2026-11-13",
+   "time": "21:15",
+   "home": "001433",
+   "away": "052284",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "designata",
+   "venue": {
+    "name": "Palestra Scuole Elementari",
+    "address": "Via Rossini 137",
+    "city": "Castelfidardo",
+    "province": "AN"
+   },
+   "referees": [
+    "Niccolo' Flocco",
+    "Luca Farinelli"
+   ],
+   "source": "fip-api"
+  },
+  {
+   "id": "1141",
+   "round": 5,
+   "leg": 1,
+   "date": "2026-11-13",
+   "time": "21:30",
+   "home": "006291",
+   "away": "051572",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "designata",
+   "venue": {
+    "name": "Palestra G. Falcone",
+    "address": "Via Flavia",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [
+    "Gabriele Rao",
+    "Mattia Sisi"
+   ],
+   "source": "fip-api"
+  },
+  {
+   "id": "1142",
+   "round": 5,
+   "leg": 1,
+   "date": "2026-11-14",
+   "time": "19:00",
+   "home": "000334",
+   "away": "056402",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "designata",
+   "venue": {
+    "name": "Palestra Pietralacroce",
+    "address": "Via F.lli Zuccari",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [
+    "Marco Angeloni",
+    "Francesco Campanelli"
+   ],
+   "source": "fip-api"
+  },
+  {
+   "id": "1139",
+   "round": 5,
+   "leg": 1,
+   "date": "2026-11-16",
+   "time": "21:30",
+   "home": "001423",
+   "away": "042467",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "designata",
+   "venue": {
+    "name": "Palestra 'G.Ferraris'",
+    "address": "Via Speri",
+    "city": "Falconara Marittima",
+    "province": "AN"
+   },
+   "referees": [
+    "Alessandro Di Lello",
+    "Giovanni Andrea Molinaro"
+   ],
+   "source": "fip-api"
+  },
+  {
+   "id": "1144",
+   "round": 5,
+   "leg": 1,
+   "date": "2026-11-18",
+   "time": "21:30",
+   "home": "030272",
+   "away": "000568",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "designata",
+   "venue": {
+    "name": "Pal.dello Sport PALASIGE Alessio Pergolesi",
+    "address": "Via Circonvallazione",
+    "city": "Polverigi",
+    "province": "AN"
+   },
+   "referees": [
+    "Angelo Tucci",
+    "Riccardo Galassi"
+   ],
+   "source": "fip-api"
+  },
+  {
+   "id": "1147",
+   "round": 6,
+   "leg": 1,
+   "date": "2026-11-20",
+   "time": "20:30",
+   "home": "051572",
+   "away": "054458",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "designata",
+   "venue": {
+    "name": "PALESTRA MAZZINI",
+    "address": "Via Fabbri Zona Borgo",
+    "city": "Fabriano",
+    "province": "AN"
+   },
+   "referees": [
+    "Italo Adinolfi",
+    "Asia Mancini"
+   ],
+   "source": "fip-api"
+  },
+  {
+   "id": "1148",
+   "round": 6,
+   "leg": 1,
+   "date": "2026-11-20",
+   "time": "20:30",
+   "home": "052284",
+   "away": "055995",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "designata",
+   "venue": {
+    "name": "Palestra MICS",
+    "address": "via Venezia - Moie",
+    "city": "Maiolati Spontini",
+    "province": "AN"
+   },
+   "referees": [
+    "Giovanni Andrea Molinaro",
+    "Giovanni Cegna"
+   ],
+   "source": "fip-api"
+  },
+  {
+   "id": "1145",
+   "round": 6,
+   "leg": 1,
+   "date": "2026-11-20",
+   "time": "21:30",
+   "home": "000568",
+   "away": "001433",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "designata",
+   "venue": {
+    "name": "Palasport Comunale",
+    "address": "L.go Donatori Del Sangue",
+    "city": "Chiaravalle",
+    "province": "AN"
+   },
+   "referees": [
+    "Francesco Bertolasi",
+    "Daniele Bruschi"
+   ],
+   "source": "fip-api"
+  },
+  {
+   "id": "1150",
+   "round": 6,
+   "leg": 1,
+   "date": "2026-11-20",
+   "time": "21:30",
+   "home": "042467",
+   "away": "006291",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "designata",
+   "venue": {
+    "name": "Palestra \"P.Novelli\"",
+    "address": "Via Del Prato 11",
+    "city": "Jesi",
+    "province": "AN"
+   },
+   "referees": [
+    "Mattia Sisi",
+    "Erika Filippetti"
+   ],
+   "source": "fip-api"
+  },
+  {
+   "id": "1146",
+   "round": 6,
+   "leg": 1,
+   "date": "2026-11-21",
+   "time": "19:00",
+   "home": "000334",
+   "away": "001423",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palestra Pietralacroce",
+    "address": "Via F.lli Zuccari",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1149",
+   "round": 6,
+   "leg": 1,
+   "date": "2026-12-02",
+   "time": "21:30",
+   "home": "056402",
+   "away": "030272",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palestra G. Falcone",
+    "address": "Via Flavia",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1153",
+   "round": 7,
+   "leg": 1,
+   "date": "2026-11-25",
+   "time": "21:30",
+   "home": "030272",
+   "away": "052284",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "designata",
+   "venue": {
+    "name": "Pal.dello Sport PALASIGE Alessio Pergolesi",
+    "address": "Via Circonvallazione",
+    "city": "Polverigi",
+    "province": "AN"
+   },
+   "referees": [
+    "Tommaso Caporalini",
+    "Mattia Sisi"
+   ],
+   "source": "fip-api"
+  },
+  {
+   "id": "1152",
+   "round": 7,
+   "leg": 1,
+   "date": "2026-11-27",
+   "time": "20:30",
+   "home": "054458",
+   "away": "000334",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Pallone Geodetico",
+    "address": "P.zza Bellini",
+    "city": "Osimo",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1151",
+   "round": 7,
+   "leg": 1,
+   "date": "2026-11-27",
+   "time": "21:15",
+   "home": "001433",
+   "away": "042467",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palestra Scuole Elementari",
+    "address": "Via Rossini 137",
+    "city": "Castelfidardo",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1156",
+   "round": 7,
+   "leg": 1,
+   "date": "2026-11-27",
+   "time": "21:15",
+   "home": "055995",
+   "away": "051572",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palasport Matelica",
+    "address": "Borgo Nazario Sauro",
+    "city": "Matelica",
+    "province": "MC"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1155",
+   "round": 7,
+   "leg": 1,
+   "date": "2026-11-27",
+   "time": "21:30",
+   "home": "056402",
+   "away": "000568",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palascherma",
+    "address": "Via Monte Pelago 10",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1154",
+   "round": 7,
+   "leg": 1,
+   "date": "2026-11-30",
+   "time": "21:30",
+   "home": "001423",
+   "away": "006291",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palestra 'G.Ferraris'",
+    "address": "Via Speri",
+    "city": "Falconara Marittima",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1160",
+   "round": 8,
+   "leg": 1,
+   "date": "2026-12-02",
+   "time": "21:30",
+   "home": "000568",
+   "away": "000334",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "PalaMenotti",
+    "address": "Viale Delle Querce",
+    "city": "Montemarciano",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1157",
+   "round": 8,
+   "leg": 1,
+   "date": "2026-12-04",
+   "time": "20:30",
+   "home": "051572",
+   "away": "056402",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "PALESTRA MAZZINI",
+    "address": "Via Fabbri Zona Borgo",
+    "city": "Fabriano",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1159",
+   "round": 8,
+   "leg": 1,
+   "date": "2026-12-04",
+   "time": "20:30",
+   "home": "052284",
+   "away": "001423",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palestra MICS",
+    "address": "via Venezia - Moie",
+    "city": "Maiolati Spontini",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1158",
+   "round": 8,
+   "leg": 1,
+   "date": "2026-12-04",
+   "time": "21:15",
+   "home": "055995",
+   "away": "030272",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palasport Matelica",
+    "address": "Borgo Nazario Sauro",
+    "city": "Matelica",
+    "province": "MC"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1161",
+   "round": 8,
+   "leg": 1,
+   "date": "2026-12-04",
+   "time": "21:30",
+   "home": "042467",
+   "away": "054458",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palestra \"P.Novelli\"",
+    "address": "Via Del Prato 11",
+    "city": "Jesi",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1162",
+   "round": 8,
+   "leg": 1,
+   "date": "2026-12-04",
+   "time": "21:30",
+   "home": "006291",
+   "away": "001433",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palestra G. Falcone",
+    "address": "Via Flavia",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1166",
+   "round": 9,
+   "leg": 1,
+   "date": "2026-12-11",
+   "time": "20:30",
+   "home": "054458",
+   "away": "006291",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Pallone Geodetico",
+    "address": "P.zza Bellini",
+    "city": "Osimo",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1168",
+   "round": 9,
+   "leg": 1,
+   "date": "2026-12-11",
+   "time": "20:30",
+   "home": "052284",
+   "away": "000568",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palestra MICS",
+    "address": "via Venezia - Moie",
+    "city": "Maiolati Spontini",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1165",
+   "round": 9,
+   "leg": 1,
+   "date": "2026-12-11",
+   "time": "21:30",
+   "home": "056402",
+   "away": "055995",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palascherma",
+    "address": "Via Monte Pelago 10",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1163",
+   "round": 9,
+   "leg": 1,
+   "date": "2026-12-12",
+   "time": "19:00",
+   "home": "000334",
+   "away": "042467",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palestra Pietralacroce",
+    "address": "Via F.lli Zuccari",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1164",
+   "round": 9,
+   "leg": 1,
+   "date": "2026-12-14",
+   "time": "21:30",
+   "home": "001423",
+   "away": "001433",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palestra 'G.Ferraris'",
+    "address": "Via Speri",
+    "city": "Falconara Marittima",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1167",
+   "round": 9,
+   "leg": 1,
+   "date": "2026-12-16",
+   "time": "21:30",
+   "home": "030272",
+   "away": "051572",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Pal.dello Sport PALASIGE Alessio Pergolesi",
+    "address": "Via Circonvallazione",
+    "city": "Polverigi",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1172",
+   "round": 10,
+   "leg": 1,
+   "date": "2026-12-17",
+   "time": "21:30",
+   "home": "042467",
+   "away": "056402",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palestra \"P.Novelli\"",
+    "address": "Via Del Prato 11",
+    "city": "Jesi",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1171",
+   "round": 10,
+   "leg": 1,
+   "date": "2026-12-18",
+   "time": "20:30",
+   "home": "051572",
+   "away": "052284",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "PALESTRA MAZZINI",
+    "address": "Via Fabbri Zona Borgo",
+    "city": "Fabriano",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1174",
+   "round": 10,
+   "leg": 1,
+   "date": "2026-12-18",
+   "time": "20:30",
+   "home": "054458",
+   "away": "001423",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Pallone Geodetico",
+    "address": "P.zza Bellini",
+    "city": "Osimo",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1169",
+   "round": 10,
+   "leg": 1,
+   "date": "2026-12-18",
+   "time": "21:15",
+   "home": "001433",
+   "away": "000334",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palestra Scuole Elementari",
+    "address": "Via Rossini 137",
+    "city": "Castelfidardo",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1170",
+   "round": 10,
+   "leg": 1,
+   "date": "2026-12-18",
+   "time": "21:15",
+   "home": "055995",
+   "away": "000568",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palasport Matelica",
+    "address": "Borgo Nazario Sauro",
+    "city": "Matelica",
+    "province": "MC"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1173",
+   "round": 10,
+   "leg": 1,
+   "date": "2026-12-18",
+   "time": "21:30",
+   "home": "006291",
+   "away": "030272",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palestra G. Falcone",
+    "address": "Via Flavia",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1177",
+   "round": 11,
+   "leg": 1,
+   "date": "2027-01-08",
+   "time": "21:15",
+   "home": "001433",
+   "away": "054458",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palestra Scuole Elementari",
+    "address": "Via Rossini 137",
+    "city": "Castelfidardo",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1178",
+   "round": 11,
+   "leg": 1,
+   "date": "2027-01-08",
+   "time": "21:30",
+   "home": "056402",
+   "away": "052284",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palascherma",
+    "address": "Via Monte Pelago 10",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1179",
+   "round": 11,
+   "leg": 1,
+   "date": "2027-01-08",
+   "time": "21:30",
+   "home": "000568",
+   "away": "051572",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palasport Comunale",
+    "address": "L.go Donatori Del Sangue",
+    "city": "Chiaravalle",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1176",
+   "round": 11,
+   "leg": 1,
+   "date": "2027-01-09",
+   "time": "19:00",
+   "home": "000334",
+   "away": "006291",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palestra Pietralacroce",
+    "address": "Via F.lli Zuccari",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1180",
+   "round": 11,
+   "leg": 1,
+   "date": "2027-01-11",
+   "time": "21:30",
+   "home": "001423",
+   "away": "055995",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Palestra 'G.Ferraris'",
+    "address": "Via Speri",
+    "city": "Falconara Marittima",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1175",
+   "round": 11,
+   "leg": 1,
+   "date": "2027-01-13",
+   "time": "21:30",
+   "home": "030272",
+   "away": "042467",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "calendario",
+   "venue": {
+    "name": "Pal.dello Sport PALASIGE Alessio Pergolesi",
+    "address": "Via Circonvallazione",
+    "city": "Polverigi",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-api"
+  },
+  {
+   "id": "1183",
+   "round": 1,
+   "leg": 2,
+   "date": "2027-01-14",
+   "time": "21:15",
+   "home": "055995",
+   "away": "000334",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palasport Matelica",
+    "address": "Borgo Nazario Sauro",
+    "city": "Matelica",
+    "province": "MC"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1182",
+   "round": 1,
+   "leg": 2,
+   "date": "2027-01-15",
+   "time": "20:30",
+   "home": "051572",
+   "away": "001433",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "PALESTRA MAZZINI",
+    "address": "Via Fabbri Zona Borgo",
+    "city": "Fabriano",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1181",
+   "round": 1,
+   "leg": 2,
+   "date": "2027-01-15",
+   "time": "21:30",
+   "home": "006291",
+   "away": "056402",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra G. Falcone",
+    "address": "Via Flavia",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1184",
+   "round": 1,
+   "leg": 2,
+   "date": "2027-01-15",
+   "time": "21:30",
+   "home": "042467",
+   "away": "052284",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra \"P.Novelli\"",
+    "address": "Via Del Prato 11",
+    "city": "Jesi",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1185",
+   "round": 1,
+   "leg": 2,
+   "date": "2027-01-15",
+   "time": "21:30",
+   "home": "000568",
+   "away": "001423",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palasport Comunale",
+    "address": "L.go Donatori Del Sangue",
+    "city": "Chiaravalle",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1186",
+   "round": 1,
+   "leg": 2,
+   "date": "2027-01-20",
+   "time": "21:30",
+   "home": "030272",
+   "away": "054458",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Pal.dello Sport PALASIGE Alessio Pergolesi",
+    "address": "Via Circonvallazione",
+    "city": "Polverigi",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1187",
+   "round": 2,
+   "leg": 2,
+   "date": "2027-01-22",
+   "time": "20:30",
+   "home": "054458",
+   "away": "000568",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Pallone Geodetico",
+    "address": "P.zza Bellini",
+    "city": "Osimo",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1191",
+   "round": 2,
+   "leg": 2,
+   "date": "2027-01-22",
+   "time": "21:15",
+   "home": "001433",
+   "away": "055995",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra Scuole Elementari",
+    "address": "Via Rossini 137",
+    "city": "Castelfidardo",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1189",
+   "round": 2,
+   "leg": 2,
+   "date": "2027-01-22",
+   "time": "21:30",
+   "home": "042467",
+   "away": "051572",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra \"P.Novelli\"",
+    "address": "Via Del Prato 11",
+    "city": "Jesi",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1190",
+   "round": 2,
+   "leg": 2,
+   "date": "2027-01-22",
+   "time": "21:30",
+   "home": "006291",
+   "away": "052284",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra G. Falcone",
+    "address": "Via Flavia",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1188",
+   "round": 2,
+   "leg": 2,
+   "date": "2027-01-23",
+   "time": "19:00",
+   "home": "000334",
+   "away": "030272",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra Pietralacroce",
+    "address": "Via F.lli Zuccari",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1192",
+   "round": 2,
+   "leg": 2,
+   "date": "2027-01-25",
+   "time": "21:30",
+   "home": "001423",
+   "away": "056402",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra 'G.Ferraris'",
+    "address": "Via Speri",
+    "city": "Falconara Marittima",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1198",
+   "round": 3,
+   "leg": 2,
+   "date": "2027-01-27",
+   "time": "21:30",
+   "home": "030272",
+   "away": "001433",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Pal.dello Sport PALASIGE Alessio Pergolesi",
+    "address": "Via Circonvallazione",
+    "city": "Polverigi",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1193",
+   "round": 3,
+   "leg": 2,
+   "date": "2027-01-29",
+   "time": "20:30",
+   "home": "051572",
+   "away": "001423",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "PALESTRA MAZZINI",
+    "address": "Via Fabbri Zona Borgo",
+    "city": "Fabriano",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1194",
+   "round": 3,
+   "leg": 2,
+   "date": "2027-01-29",
+   "time": "20:30",
+   "home": "054458",
+   "away": "056402",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Pallone Geodetico",
+    "address": "P.zza Bellini",
+    "city": "Osimo",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1195",
+   "round": 3,
+   "leg": 2,
+   "date": "2027-01-29",
+   "time": "20:30",
+   "home": "052284",
+   "away": "000334",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra MICS",
+    "address": "via Venezia - Moie",
+    "city": "Maiolati Spontini",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1197",
+   "round": 3,
+   "leg": 2,
+   "date": "2027-01-29",
+   "time": "21:15",
+   "home": "055995",
+   "away": "042467",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palasport Matelica",
+    "address": "Borgo Nazario Sauro",
+    "city": "Matelica",
+    "province": "MC"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1196",
+   "round": 3,
+   "leg": 2,
+   "date": "2027-01-29",
+   "time": "21:30",
+   "home": "000568",
+   "away": "006291",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palasport Comunale",
+    "address": "L.go Donatori Del Sangue",
+    "city": "Chiaravalle",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1201",
+   "round": 4,
+   "leg": 2,
+   "date": "2027-02-05",
+   "time": "20:30",
+   "home": "054458",
+   "away": "052284",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Pallone Geodetico",
+    "address": "P.zza Bellini",
+    "city": "Osimo",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1200",
+   "round": 4,
+   "leg": 2,
+   "date": "2027-02-05",
+   "time": "21:15",
+   "home": "001433",
+   "away": "056402",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra Scuole Elementari",
+    "address": "Via Rossini 137",
+    "city": "Castelfidardo",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1199",
+   "round": 4,
+   "leg": 2,
+   "date": "2027-02-05",
+   "time": "21:30",
+   "home": "042467",
+   "away": "000568",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra \"P.Novelli\"",
+    "address": "Via Del Prato 11",
+    "city": "Jesi",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1204",
+   "round": 4,
+   "leg": 2,
+   "date": "2027-02-05",
+   "time": "21:30",
+   "home": "006291",
+   "away": "055995",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra G. Falcone",
+    "address": "Via Flavia",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1203",
+   "round": 4,
+   "leg": 2,
+   "date": "2027-02-06",
+   "time": "19:00",
+   "home": "000334",
+   "away": "051572",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra Pietralacroce",
+    "address": "Via F.lli Zuccari",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1202",
+   "round": 4,
+   "leg": 2,
+   "date": "2027-02-08",
+   "time": "21:30",
+   "home": "001423",
+   "away": "030272",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra 'G.Ferraris'",
+    "address": "Via Speri",
+    "city": "Falconara Marittima",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1209",
+   "round": 5,
+   "leg": 2,
+   "date": "2027-02-10",
+   "time": "21:30",
+   "home": "056402",
+   "away": "000334",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palascherma",
+    "address": "Via Monte Pelago 10",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1206",
+   "round": 5,
+   "leg": 2,
+   "date": "2027-02-11",
+   "time": "21:15",
+   "home": "055995",
+   "away": "054458",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palasport Matelica",
+    "address": "Borgo Nazario Sauro",
+    "city": "Matelica",
+    "province": "MC"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1205",
+   "round": 5,
+   "leg": 2,
+   "date": "2027-02-12",
+   "time": "20:30",
+   "home": "051572",
+   "away": "006291",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "PALESTRA MAZZINI",
+    "address": "Via Fabbri Zona Borgo",
+    "city": "Fabriano",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1207",
+   "round": 5,
+   "leg": 2,
+   "date": "2027-02-12",
+   "time": "20:30",
+   "home": "052284",
+   "away": "001433",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra MICS",
+    "address": "via Venezia - Moie",
+    "city": "Maiolati Spontini",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1208",
+   "round": 5,
+   "leg": 2,
+   "date": "2027-02-12",
+   "time": "21:30",
+   "home": "000568",
+   "away": "030272",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palasport Comunale",
+    "address": "L.go Donatori Del Sangue",
+    "city": "Chiaravalle",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1210",
+   "round": 5,
+   "leg": 2,
+   "date": "2027-02-12",
+   "time": "21:30",
+   "home": "042467",
+   "away": "001423",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra \"P.Novelli\"",
+    "address": "Via Del Prato 11",
+    "city": "Jesi",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1215",
+   "round": 6,
+   "leg": 2,
+   "date": "2027-02-17",
+   "time": "21:30",
+   "home": "030272",
+   "away": "056402",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Pal.dello Sport PALASIGE Alessio Pergolesi",
+    "address": "Via Circonvallazione",
+    "city": "Polverigi",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1212",
+   "round": 6,
+   "leg": 2,
+   "date": "2027-02-19",
+   "time": "20:30",
+   "home": "054458",
+   "away": "051572",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Pallone Geodetico",
+    "address": "P.zza Bellini",
+    "city": "Osimo",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1211",
+   "round": 6,
+   "leg": 2,
+   "date": "2027-02-19",
+   "time": "21:15",
+   "home": "001433",
+   "away": "000568",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra Scuole Elementari",
+    "address": "Via Rossini 137",
+    "city": "Castelfidardo",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1214",
+   "round": 6,
+   "leg": 2,
+   "date": "2027-02-19",
+   "time": "21:15",
+   "home": "055995",
+   "away": "052284",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palasport Matelica",
+    "address": "Borgo Nazario Sauro",
+    "city": "Matelica",
+    "province": "MC"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1213",
+   "round": 6,
+   "leg": 2,
+   "date": "2027-02-19",
+   "time": "21:30",
+   "home": "006291",
+   "away": "042467",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra G. Falcone",
+    "address": "Via Flavia",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1216",
+   "round": 6,
+   "leg": 2,
+   "date": "2027-02-22",
+   "time": "21:30",
+   "home": "001423",
+   "away": "000334",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra 'G.Ferraris'",
+    "address": "Via Speri",
+    "city": "Falconara Marittima",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1218",
+   "round": 7,
+   "leg": 2,
+   "date": "2027-02-26",
+   "time": "20:30",
+   "home": "051572",
+   "away": "055995",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "PALESTRA MAZZINI",
+    "address": "Via Fabbri Zona Borgo",
+    "city": "Fabriano",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1220",
+   "round": 7,
+   "leg": 2,
+   "date": "2027-02-26",
+   "time": "20:30",
+   "home": "052284",
+   "away": "030272",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra MICS",
+    "address": "via Venezia - Moie",
+    "city": "Maiolati Spontini",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1217",
+   "round": 7,
+   "leg": 2,
+   "date": "2027-02-26",
+   "time": "21:30",
+   "home": "000568",
+   "away": "056402",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palasport Comunale",
+    "address": "L.go Donatori Del Sangue",
+    "city": "Chiaravalle",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1219",
+   "round": 7,
+   "leg": 2,
+   "date": "2027-02-26",
+   "time": "21:30",
+   "home": "006291",
+   "away": "001423",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra G. Falcone",
+    "address": "Via Flavia",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1221",
+   "round": 7,
+   "leg": 2,
+   "date": "2027-02-26",
+   "time": "21:30",
+   "home": "042467",
+   "away": "001433",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra \"P.Novelli\"",
+    "address": "Via Del Prato 11",
+    "city": "Jesi",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1222",
+   "round": 7,
+   "leg": 2,
+   "date": "2027-02-27",
+   "time": "19:00",
+   "home": "000334",
+   "away": "054458",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra Pietralacroce",
+    "address": "Via F.lli Zuccari",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1228",
+   "round": 8,
+   "leg": 2,
+   "date": "2027-03-03",
+   "time": "21:30",
+   "home": "030272",
+   "away": "055995",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Pal.dello Sport PALASIGE Alessio Pergolesi",
+    "address": "Via Circonvallazione",
+    "city": "Polverigi",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1224",
+   "round": 8,
+   "leg": 2,
+   "date": "2027-03-05",
+   "time": "20:30",
+   "home": "054458",
+   "away": "042467",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Pallone Geodetico",
+    "address": "P.zza Bellini",
+    "city": "Osimo",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1227",
+   "round": 8,
+   "leg": 2,
+   "date": "2027-03-05",
+   "time": "21:15",
+   "home": "001433",
+   "away": "006291",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra Scuole Elementari",
+    "address": "Via Rossini 137",
+    "city": "Castelfidardo",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1223",
+   "round": 8,
+   "leg": 2,
+   "date": "2027-03-05",
+   "time": "21:30",
+   "home": "056402",
+   "away": "051572",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palascherma",
+    "address": "Via Monte Pelago 10",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1226",
+   "round": 8,
+   "leg": 2,
+   "date": "2027-03-06",
+   "time": "19:00",
+   "home": "000334",
+   "away": "000568",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra Pietralacroce",
+    "address": "Via F.lli Zuccari",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1225",
+   "round": 8,
+   "leg": 2,
+   "date": "2027-03-08",
+   "time": "21:30",
+   "home": "001423",
+   "away": "052284",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra 'G.Ferraris'",
+    "address": "Via Speri",
+    "city": "Falconara Marittima",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1232",
+   "round": 9,
+   "leg": 2,
+   "date": "2027-03-12",
+   "time": "20:30",
+   "home": "051572",
+   "away": "030272",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "PALESTRA MAZZINI",
+    "address": "Via Fabbri Zona Borgo",
+    "city": "Fabriano",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1229",
+   "round": 9,
+   "leg": 2,
+   "date": "2027-03-12",
+   "time": "21:15",
+   "home": "001433",
+   "away": "001423",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra Scuole Elementari",
+    "address": "Via Rossini 137",
+    "city": "Castelfidardo",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1233",
+   "round": 9,
+   "leg": 2,
+   "date": "2027-03-12",
+   "time": "21:15",
+   "home": "055995",
+   "away": "056402",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palasport Matelica",
+    "address": "Borgo Nazario Sauro",
+    "city": "Matelica",
+    "province": "MC"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1230",
+   "round": 9,
+   "leg": 2,
+   "date": "2027-03-12",
+   "time": "21:30",
+   "home": "006291",
+   "away": "054458",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra G. Falcone",
+    "address": "Via Flavia",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1231",
+   "round": 9,
+   "leg": 2,
+   "date": "2027-03-12",
+   "time": "21:30",
+   "home": "042467",
+   "away": "000334",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra \"P.Novelli\"",
+    "address": "Via Del Prato 11",
+    "city": "Jesi",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1234",
+   "round": 9,
+   "leg": 2,
+   "date": "2027-03-12",
+   "time": "21:30",
+   "home": "000568",
+   "away": "052284",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palasport Comunale",
+    "address": "L.go Donatori Del Sangue",
+    "city": "Chiaravalle",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1235",
+   "round": 10,
+   "leg": 2,
+   "date": "2027-03-17",
+   "time": "21:30",
+   "home": "030272",
+   "away": "006291",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Pal.dello Sport PALASIGE Alessio Pergolesi",
+    "address": "Via Circonvallazione",
+    "city": "Polverigi",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1239",
+   "round": 10,
+   "leg": 2,
+   "date": "2027-03-17",
+   "time": "21:30",
+   "home": "000568",
+   "away": "055995",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "PalaMenotti",
+    "address": "Viale Delle Querce",
+    "city": "Montemarciano",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1237",
+   "round": 10,
+   "leg": 2,
+   "date": "2027-03-19",
+   "time": "20:30",
+   "home": "052284",
+   "away": "051572",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra MICS",
+    "address": "via Venezia - Moie",
+    "city": "Maiolati Spontini",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1236",
+   "round": 10,
+   "leg": 2,
+   "date": "2027-03-19",
+   "time": "21:30",
+   "home": "056402",
+   "away": "042467",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palascherma",
+    "address": "Via Monte Pelago 10",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1240",
+   "round": 10,
+   "leg": 2,
+   "date": "2027-03-20",
+   "time": "19:00",
+   "home": "000334",
+   "away": "001433",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra Pietralacroce",
+    "address": "Via F.lli Zuccari",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1238",
+   "round": 10,
+   "leg": 2,
+   "date": "2027-03-22",
+   "time": "21:30",
+   "home": "001423",
+   "away": "054458",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra 'G.Ferraris'",
+    "address": "Via Speri",
+    "city": "Falconara Marittima",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1241",
+   "round": 11,
+   "leg": 2,
+   "date": "2027-04-02",
+   "time": "20:30",
+   "home": "051572",
+   "away": "000568",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "PALESTRA MAZZINI",
+    "address": "Via Fabbri Zona Borgo",
+    "city": "Fabriano",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1244",
+   "round": 11,
+   "leg": 2,
+   "date": "2027-04-02",
+   "time": "20:30",
+   "home": "054458",
+   "away": "001433",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Pallone Geodetico",
+    "address": "P.zza Bellini",
+    "city": "Osimo",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1246",
+   "round": 11,
+   "leg": 2,
+   "date": "2027-04-02",
+   "time": "20:30",
+   "home": "052284",
+   "away": "056402",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra MICS",
+    "address": "via Venezia - Moie",
+    "city": "Maiolati Spontini",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1242",
+   "round": 11,
+   "leg": 2,
+   "date": "2027-04-02",
+   "time": "21:15",
+   "home": "055995",
+   "away": "001423",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palasport Matelica",
+    "address": "Borgo Nazario Sauro",
+    "city": "Matelica",
+    "province": "MC"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1243",
+   "round": 11,
+   "leg": 2,
+   "date": "2027-04-02",
+   "time": "21:30",
+   "home": "042467",
+   "away": "030272",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra \"P.Novelli\"",
+    "address": "Via Del Prato 11",
+    "city": "Jesi",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  },
+  {
+   "id": "1245",
+   "round": 11,
+   "leg": 2,
+   "date": "2027-04-02",
+   "time": "21:30",
+   "home": "006291",
+   "away": "000334",
+   "homePts": null,
+   "awayPts": null,
+   "played": false,
+   "status": "da calendario",
+   "venue": {
+    "name": "Palestra G. Falcone",
+    "address": "Via Flavia",
+    "city": "Ancona",
+    "province": "AN"
+   },
+   "referees": [],
+   "source": "fip-pdf"
+  }
+ ],
+ "warnings": [
+  "Gara 1126: somma punti tabellino 59-44 ≠ risultato 59-45",
+  "Gara 1127: somma punti tabellino 58-33 ≠ risultato 58-42",
+  "Nome ambiguo in Pietralacroce 73 Ancona: \"Ansevini\" e \"Ansevini L.\", \"Ansevini D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
+  "Nome ambiguo in Gladiatores Matelica: \"Porcarelli\" e \"Porcarelli D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
+  "Nome ambiguo in Falconara Basket: \"Giampieri\" e \"Giampieri L.\", \"Giampieri T.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
+  "Nome ambiguo in Basket School Fabriano: \"Caporali\" e \"Caporali M.\", \"Caporali G.\" — se sono la stessa persona aggiungi un alias in config.playerAliases"
+ ]
+}

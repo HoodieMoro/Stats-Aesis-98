@@ -1,0 +1,152 @@
+{
+ "home": {
+  "label": "Unione Basket 2010",
+  "players": [
+   {
+    "name": "Kurti",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Brugnoni",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Greganti",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Cioccolanti",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Santoni",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Feo",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Palumbo",
+    "pts": 25,
+    "played": true
+   },
+   {
+    "name": "Palmucci",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Pergolesi",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Pergolini",
+    "pts": 17,
+    "played": true
+   },
+   {
+    "name": "Duca",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Costarelli",
+    "pts": 2,
+    "played": true
+   }
+  ],
+  "coach": "Pepa"
+ },
+ "away": {
+  "label": "Project Basket Osimo",
+  "players": [
+   {
+    "name": "Biordi",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Vescovo",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Santilli",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Martella",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Strappato",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Carletti D.",
+    "pts": 17,
+    "played": true
+   },
+   {
+    "name": "Gradara",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Carletti A.",
+    "pts": 13,
+    "played": true
+   },
+   {
+    "name": "Nardini",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Pettinari",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Giorgi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Angelucci",
+    "pts": null,
+    "played": false
+   }
+  ],
+  "coach": "Mosca"
+ },
+ "quarters": [
+  [
+   16,
+   16
+  ],
+  [
+   15,
+   24
+  ],
+  [
+   15,
+   13
+  ],
+  [
+   21,
+   10
+  ]
+ ]
+}

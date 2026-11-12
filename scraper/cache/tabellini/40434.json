@@ -1,0 +1,147 @@
+{
+ "home": {
+  "label": "Montevalle Academy",
+  "players": [
+   {
+    "name": "Mosca",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Ferri",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Guidi",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Paolinelli",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Carbonaro",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Burzacchini",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Gigli",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Castelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Carbonari",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Petrolati",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Catani",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Epstein",
+    "pts": 12,
+    "played": true
+   }
+  ],
+  "coach": null
+ },
+ "away": {
+  "label": "Project Basket Osimo",
+  "players": [
+   {
+    "name": "Pettinari",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Biordi",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Giorgi",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Vescovo",
+    "pts": 12,
+    "played": true
+   },
+   {
+    "name": "Tortù",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Santilli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Martella",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Strappato",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Carletti D.",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Carletti A.",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Nardini",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": "Mosca"
+ },
+ "quarters": [
+  [
+   20,
+   8
+  ],
+  [
+   12,
+   16
+  ],
+  [
+   10,
+   10
+  ],
+  [
+   17,
+   11
+  ]
+ ]
+}
