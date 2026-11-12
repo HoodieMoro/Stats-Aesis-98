@@ -1,0 +1,56 @@
+# Aggiorna i dati del campionato e pubblica il sito su GitHub Pages.
+name: Aggiorna sito
+
+on:
+  schedule:
+    - cron: '45 22 * * *' # 23:45 ora italiana (inverno) – dopo le partite serali
+    - cron: '15 6 * * *'  # 07:15 ora italiana (inverno) – tabellini pubblicati in nottata
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: aggiorna-sito
+  cancel-in-progress: false
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Scarica i dati (FIP + basketmarche)
+        run: npm run data
+
+      - name: Salva i nuovi dati nel repository
+        run: |
+          git config user.name "aggiornamento-automatico"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/data scraper/cache
+          git diff --cached --quiet || git commit -m "Aggiornamento dati $(date -u +'%Y-%m-%d %H:%M') UTC [skip ci]"
+          git push
+
+      - name: Costruisci il sito
+        run: npm run build
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - id: deploy
+        uses: actions/deploy-pages@v4
