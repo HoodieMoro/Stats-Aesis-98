@@ -21,7 +21,7 @@ export default function Standings() {
 
   return (
     <>
-      <PageHeader title="Classifica" subtitle={`${data.league} · classifica ufficiale FIP`}>
+      <PageHeader title="Classifica" subtitle={`${data.league} · classifica FIP aggiornata con gli ultimi risultati`}>
         <div role="tablist" className="inline-flex rounded-xl bg-ink-200/60 p-0.5 text-[13px]">
           {(['totale', 'casa', 'trasferta'] as View[]).map((v) => (
             <button
@@ -66,6 +66,9 @@ export default function Standings() {
                         <span className="w-5 text-right text-[12px] font-semibold tabular-nums text-ink-400">{view === 'totale' ? r.pos : i + 1}</span>
                         <TeamBadge id={r.team} size="sm" />
                         <TeamName id={r.team} link={false} className="whitespace-nowrap" />
+                        {view === 'totale' && (r.provisional ?? 0) > 0 && (
+                          <span className="text-[12px] font-semibold text-ball-600" title="Include risultati non ancora omologati dalla FIP">*</span>
+                        )}
                       </a>
                     </td>
                     <td className="px-2 text-center font-bold tabular-nums">
@@ -91,7 +94,11 @@ export default function Standings() {
         </div>
       </Card>
       <p className="mt-3 text-[12px] text-ink-400">
-        2 punti per vittoria. Le viste "casa" e "trasferta" sono calcolate dai risultati delle partite giocate.
+        2 punti per vittoria.
+        {standings.some((r) => (r.provisional ?? 0) > 0) && (
+          <> * Include risultati già giocati ma non ancora omologati dalla FIP (la classifica ufficiale li conta dopo l'omologazione).</>
+        )}{' '}
+        Le viste "casa" e "trasferta" sono calcolate dai risultati delle partite giocate.
       </p>
     </>
   );

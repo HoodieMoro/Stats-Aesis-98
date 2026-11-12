@@ -59,6 +59,8 @@ export interface StandingRow {
   pa: number;
   points: number;
   penalty: number;
+  /** gare giocate ma non ancora omologate dalla FIP, già incluse nei totali */
+  provisional?: number;
 }
 
 export interface League {
