@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-12T18:52:38.723Z",
+ "updatedAt": "2026-11-12T20:17:03.360Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -144,6 +144,152 @@
   }
  ],
  "standings": [
+  {
+   "team": "000334",
+   "pos": 1,
+   "played": 4,
+   "won": 4,
+   "lost": 0,
+   "pf": 338,
+   "pa": 225,
+   "points": 8,
+   "penalty": 0,
+   "provisional": 0
+  },
+  {
+   "team": "056402",
+   "pos": 2,
+   "played": 3,
+   "won": 3,
+   "lost": 0,
+   "pf": 209,
+   "pa": 155,
+   "points": 6,
+   "penalty": 0,
+   "provisional": 0
+  },
+  {
+   "team": "000568",
+   "pos": 3,
+   "played": 4,
+   "won": 3,
+   "lost": 1,
+   "pf": 244,
+   "pa": 188,
+   "points": 6,
+   "penalty": 0,
+   "provisional": 0
+  },
+  {
+   "team": "052284",
+   "pos": 4,
+   "played": 4,
+   "won": 3,
+   "lost": 1,
+   "pf": 288,
+   "pa": 259,
+   "points": 6,
+   "penalty": 0,
+   "provisional": 0
+  },
+  {
+   "team": "055995",
+   "pos": 5,
+   "played": 4,
+   "won": 3,
+   "lost": 1,
+   "pf": 268,
+   "pa": 250,
+   "points": 6,
+   "penalty": 0,
+   "provisional": 0
+  },
+  {
+   "team": "001433",
+   "pos": 6,
+   "played": 4,
+   "won": 2,
+   "lost": 2,
+   "pf": 219,
+   "pa": 230,
+   "points": 4,
+   "penalty": 0,
+   "provisional": 0
+  },
+  {
+   "team": "042467",
+   "pos": 7,
+   "played": 4,
+   "won": 2,
+   "lost": 2,
+   "pf": 249,
+   "pa": 269,
+   "points": 4,
+   "penalty": 0,
+   "provisional": 0
+  },
+  {
+   "team": "030272",
+   "pos": 8,
+   "played": 4,
+   "won": 2,
+   "lost": 2,
+   "pf": 239,
+   "pa": 224,
+   "points": 4,
+   "penalty": 0,
+   "provisional": 1
+  },
+  {
+   "team": "001423",
+   "pos": 9,
+   "played": 3,
+   "won": 1,
+   "lost": 2,
+   "pf": 133,
+   "pa": 205,
+   "points": 2,
+   "penalty": 0,
+   "provisional": 1
+  },
+  {
+   "team": "054458",
+   "pos": 10,
+   "played": 4,
+   "won": 0,
+   "lost": 4,
+   "pf": 218,
+   "pa": 264,
+   "points": 0,
+   "penalty": 0,
+   "provisional": 0
+  },
+  {
+   "team": "006291",
+   "pos": 11,
+   "played": 4,
+   "won": 0,
+   "lost": 4,
+   "pf": 215,
+   "pa": 270,
+   "points": 0,
+   "penalty": 0,
+   "provisional": 0
+  },
+  {
+   "team": "051572",
+   "pos": 12,
+   "played": 4,
+   "won": 0,
+   "lost": 4,
+   "pf": 215,
+   "pa": 296,
+   "points": 0,
+   "penalty": 0,
+   "provisional": 0
+  }
+ ],
+ "standingsOfficial": [
   {
    "team": "000334",
    "pos": 1,
