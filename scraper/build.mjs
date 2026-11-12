@@ -40,8 +40,9 @@ try {
 } catch (e) {
   warn(`API FIP non raggiungibile (${e.message}): uso i dati precedenti dove possibile`);
   apiGames = previous?.games?.filter((g) => g.source === 'fip-api') ?? [];
-  standings = previous?.standings ?? [];
+  standings = previous?.standingsOfficial ?? previous?.standings ?? [];
 }
+const officialStandings = standings;
 
 // nomi FIP per riconoscere le squadre nel PDF
 const fipNames = {};
@@ -181,7 +182,56 @@ for (const [team, set] of Object.entries(namesByTeam)) {
   }
 }
 
-// ── 4. output ────────────────────────────────────────────────────────────
+// ── 4. classifica: aggiunge le gare giocate ma non ancora omologate ──────
+// La classifica ufficiale FIP conta solo le gare omologate (di solito qualche giorno
+// dopo la partita), mentre il risultato compare subito nel calendario. Le gare giocate
+// che la classifica FIP non ha ancora conteggiato vengono aggiunte qui, così la
+// classifica resta coerente con i risultati. Quando la FIP omologa la gara, la sua
+// classifica la include e qui non viene più aggiunta (nessun doppio conteggio).
+function applyPendingResults(official, allGames) {
+  if (!official.length) return official;
+  const rows = new Map(official.map((s) => [s.team, { ...s, provisional: 0 }]));
+  const pending = new Map(); // team → gare giocate non omologate, dalla più vecchia
+  for (const g of allGames) {
+    if (!g.played || g.status === 'omologata') continue;
+    for (const t of [g.home, g.away]) (pending.get(t) ?? pending.set(t, []).get(t)).push(g);
+  }
+  const playedCount = {};
+  for (const g of allGames) if (g.played) for (const t of [g.home, g.away]) playedCount[t] = (playedCount[t] ?? 0) + 1;
+
+  for (const [team, list] of pending) {
+    const row = rows.get(team);
+    if (!row) continue;
+    // conta solo le gare che la classifica FIP non include ancora
+    const missing = Math.min(list.length, (playedCount[team] ?? 0) - row.played);
+    if (missing <= 0) continue;
+    list.sort((a, b) => String(a.date).localeCompare(String(b.date)));
+    for (const g of list.slice(-missing)) {
+      const home = g.home === team;
+      const pf = home ? g.homePts : g.awayPts;
+      const pa = home ? g.awayPts : g.homePts;
+      row.played++;
+      row.pf += pf;
+      row.pa += pa;
+      if (pf > pa) {
+        row.won++;
+        row.points += 2;
+      } else {
+        row.lost++;
+      }
+      row.provisional++;
+    }
+  }
+  // riordina per punti; a parità resta l'ordine ufficiale FIP (scontri diretti ecc.)
+  const sorted = [...rows.values()].sort((a, b) => b.points - a.points || a.pos - b.pos);
+  sorted.forEach((r, i) => (r.pos = i + 1));
+  const added = sorted.reduce((n, r) => n + r.provisional, 0);
+  if (added) log(`  classifica: aggiunti ${added / 2} risultati non ancora omologati`);
+  return sorted;
+}
+standings = applyPendingResults(standings, [...games.values()]);
+
+// ── 5. output ────────────────────────────────────────────────────────────
 const venues = {};
 for (const g of games.values()) if (g.source === 'fip-api' && g.venue?.name) venues[g.home] ??= g.venue;
 
@@ -209,6 +259,8 @@ const out = {
   },
   teams,
   standings: standings.map(({ fipName, homeVenue, ...s }) => s),
+  /** classifica FIP così com'è (solo gare omologate), usata se l'API non risponde */
+  standingsOfficial: officialStandings.map(({ fipName, homeVenue, ...s }) => s),
   games: sortedGames,
   warnings,
 };
