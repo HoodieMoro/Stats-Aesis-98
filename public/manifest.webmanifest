@@ -1,0 +1,15 @@
+{
+  "name": "Aesis Stats · DR2 Girone B",
+  "short_name": "Aesis Stats",
+  "description": "Classifica, calendario, risultati e statistiche del girone dell'Aesis '98 Jesi.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f4f5",
+  "theme_color": "#f4f4f5",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
