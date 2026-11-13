@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-13T07:33:11.213Z",
+ "updatedAt": "2026-11-13T23:24:05.401Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -183,38 +183,38 @@
   {
    "team": "052284",
    "pos": 4,
-   "played": 4,
+   "played": 5,
    "won": 3,
-   "lost": 1,
-   "pf": 288,
-   "pa": 259,
+   "lost": 2,
+   "pf": 335,
+   "pa": 337,
    "points": 6,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "055995",
    "pos": 5,
-   "played": 4,
+   "played": 5,
    "won": 3,
-   "lost": 1,
-   "pf": 268,
-   "pa": 250,
+   "lost": 2,
+   "pf": 342,
+   "pa": 329,
    "points": 6,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "001433",
    "pos": 6,
-   "played": 4,
-   "won": 2,
+   "played": 5,
+   "won": 3,
    "lost": 2,
-   "pf": 219,
-   "pa": 230,
-   "points": 4,
+   "pf": 297,
+   "pa": 277,
+   "points": 6,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "030272",
@@ -255,38 +255,38 @@
   {
    "team": "054458",
    "pos": 10,
-   "played": 4,
-   "won": 0,
+   "played": 5,
+   "won": 1,
    "lost": 4,
-   "pf": 218,
-   "pa": 264,
-   "points": 0,
+   "pf": 297,
+   "pa": 338,
+   "points": 2,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "006291",
    "pos": 11,
-   "played": 4,
-   "won": 0,
+   "played": 5,
+   "won": 1,
    "lost": 4,
-   "pf": 215,
-   "pa": 270,
-   "points": 0,
+   "pf": 293,
+   "pa": 328,
+   "points": 2,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "051572",
    "pos": 12,
-   "played": 4,
+   "played": 5,
    "won": 0,
-   "lost": 4,
-   "pf": 215,
-   "pa": 296,
+   "lost": 5,
+   "pf": 273,
+   "pa": 374,
    "points": 0,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   }
  ],
  "standingsOfficial": [
@@ -4384,9 +4384,9 @@
    "time": "20:30",
    "home": "054458",
    "away": "055995",
-   "homePts": null,
-   "awayPts": null,
-   "played": false,
+   "homePts": 79,
+   "awayPts": 74,
+   "played": true,
    "status": "designata",
    "venue": {
     "name": "Pallone Geodetico",
@@ -4398,7 +4398,156 @@
     "Lorenzo Cotellessa",
     "Erika Filippetti"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/project-basket-osimo-gladiatores-matelica-5-andata-divisione-regionale-2-girone-b/41416",
+    "quarters": [
+     [
+      12,
+      15
+     ],
+     [
+      32,
+      15
+     ],
+     [
+      16,
+      22
+     ],
+     [
+      19,
+      22
+     ]
+    ],
+    "home": [
+     {
+      "name": "Biordi",
+      "pts": 15,
+      "played": true
+     },
+     {
+      "name": "Vescovo",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Tortù",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Martella",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Strappato",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Carletti D.",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Gradara",
+      "pts": 15,
+      "played": true
+     },
+     {
+      "name": "Carletti A.",
+      "pts": 12,
+      "played": true
+     },
+     {
+      "name": "Nardini",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Belardinelli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Pettinari",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Casagrande",
+      "pts": 2,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Nyamekye Odai",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Porcarelli D.",
+      "pts": 16,
+      "played": true
+     },
+     {
+      "name": "Mori",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Cingolani",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Sacco",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Picchietti",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Zamparini",
+      "pts": 12,
+      "played": true
+     },
+     {
+      "name": "Fenucci",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Orsini",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Haderi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Gentilucci",
+      "pts": 11,
+      "played": true
+     },
+     {
+      "name": "Ferretti",
+      "pts": 9,
+      "played": true
+     }
+    ],
+    "homeCoach": "Mosca",
+    "awayCoach": "Porcarelli R",
+    "check": "ok"
+   }
   },
   {
    "id": "1143",
@@ -4408,9 +4557,9 @@
    "time": "21:15",
    "home": "001433",
    "away": "052284",
-   "homePts": null,
-   "awayPts": null,
-   "played": false,
+   "homePts": 78,
+   "awayPts": 47,
+   "played": true,
    "status": "designata",
    "venue": {
     "name": "Palestra Scuole Elementari",
@@ -4422,7 +4571,8 @@
     "Niccolo' Flocco",
     "Luca Farinelli"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
   },
   {
    "id": "1141",
@@ -4432,9 +4582,9 @@
    "time": "21:30",
    "home": "006291",
    "away": "051572",
-   "homePts": null,
-   "awayPts": null,
-   "played": false,
+   "homePts": 78,
+   "awayPts": 58,
+   "played": true,
    "status": "designata",
    "venue": {
     "name": "Palestra G. Falcone",
@@ -4446,7 +4596,8 @@
     "Gabriele Rao",
     "Mattia Sisi"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
   },
   {
    "id": "1142",
@@ -4470,7 +4621,8 @@
     "Marco Angeloni",
     "Francesco Campanelli"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
   },
   {
    "id": "1139",
@@ -4494,7 +4646,8 @@
     "Alessandro Di Lello",
     "Giovanni Andrea Molinaro"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
   },
   {
    "id": "1144",
@@ -4518,7 +4671,8 @@
     "Angelo Tucci",
     "Riccardo Galassi"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
   },
   {
    "id": "1147",
