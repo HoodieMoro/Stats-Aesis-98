@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-14T07:20:26.756Z",
+ "updatedAt": "2026-11-14T23:18:05.667Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -147,26 +147,26 @@
   {
    "team": "000334",
    "pos": 1,
-   "played": 4,
-   "won": 4,
+   "played": 5,
+   "won": 5,
    "lost": 0,
-   "pf": 338,
-   "pa": 225,
-   "points": 8,
+   "pf": 401,
+   "pa": 279,
+   "points": 10,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "056402",
    "pos": 2,
-   "played": 3,
+   "played": 4,
    "won": 3,
-   "lost": 0,
-   "pf": 209,
-   "pa": 155,
+   "lost": 1,
+   "pf": 263,
+   "pa": 218,
    "points": 6,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "000568",
@@ -4573,7 +4573,6 @@
     "Luca Farinelli"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5",
    "boxscore": {
     "url": "https://www.basketmarche.it/tabellino-campionato-basket/vis-castelfidardo-unione-basket-2010-jesi-5-andata-divisione-regionale-2-girone-b/41418",
     "quarters": [
@@ -4716,7 +4715,8 @@
     "homeCoach": "Magrini",
     "awayCoach": "Pepa",
     "check": "ok"
-   }
+   },
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
   },
   {
    "id": "1141",
@@ -4741,7 +4741,6 @@
     "Mattia Sisi"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5",
    "boxscore": {
     "url": "https://www.basketmarche.it/tabellino-campionato-basket/pietralacroce-73-ancona-basket-school-fabriano-5-andata-divisione-regionale-2-girone-b/41417",
     "quarters": [
@@ -4879,7 +4878,8 @@
     "homeCoach": "Luconi",
     "awayCoach": "Gentili",
     "check": "mismatch"
-   }
+   },
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
   },
   {
    "id": "1142",
@@ -4889,9 +4889,9 @@
    "time": "19:00",
    "home": "000334",
    "away": "056402",
-   "homePts": null,
-   "awayPts": null,
-   "played": false,
+   "homePts": 63,
+   "awayPts": 54,
+   "played": true,
    "status": "designata",
    "venue": {
     "name": "Palestra Pietralacroce",
