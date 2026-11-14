@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-13T23:24:05.401Z",
+ "updatedAt": "2026-11-14T07:20:26.756Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -2331,7 +2331,8 @@
     "province": "AN"
    },
    "referees": [
-    "Francesco Bertolasi"
+    "Francesco Bertolasi",
+    "Riccardo Galassi"
    ],
    "source": "fip-api"
   },
@@ -4399,7 +4400,6 @@
     "Erika Filippetti"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5",
    "boxscore": {
     "url": "https://www.basketmarche.it/tabellino-campionato-basket/project-basket-osimo-gladiatores-matelica-5-andata-divisione-regionale-2-girone-b/41416",
     "quarters": [
@@ -4547,7 +4547,8 @@
     "homeCoach": "Mosca",
     "awayCoach": "Porcarelli R",
     "check": "ok"
-   }
+   },
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
   },
   {
    "id": "1143",
@@ -4572,7 +4573,150 @@
     "Luca Farinelli"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/vis-castelfidardo-unione-basket-2010-jesi-5-andata-divisione-regionale-2-girone-b/41418",
+    "quarters": [
+     [
+      15,
+      8
+     ],
+     [
+      18,
+      11
+     ],
+     [
+      26,
+      15
+     ],
+     [
+      19,
+      13
+     ]
+    ],
+    "home": [
+     {
+      "name": "Giantomasi",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Attili",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Gobbetti",
+      "pts": 26,
+      "played": true
+     },
+     {
+      "name": "Monaci",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Venturini",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Schiavoni",
+      "pts": 1,
+      "played": true
+     },
+     {
+      "name": "Virgini",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Marrazzo",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Borsella",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Di Palma",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Massaccesi",
+      "pts": 12,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Kurti",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Brugnoni",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Greganti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Feo",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Palumbo",
+      "pts": 12,
+      "played": true
+     },
+     {
+      "name": "Sbarbati",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Palmucci",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Fabrizi",
+      "pts": 1,
+      "played": true
+     },
+     {
+      "name": "Costarelli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Duca",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Pergolini",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Santoni",
+      "pts": 4,
+      "played": true
+     }
+    ],
+    "homeCoach": "Magrini",
+    "awayCoach": "Pepa",
+    "check": "ok"
+   }
   },
   {
    "id": "1141",
@@ -4597,7 +4741,145 @@
     "Mattia Sisi"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/pietralacroce-73-ancona-basket-school-fabriano-5-andata-divisione-regionale-2-girone-b/41417",
+    "quarters": [
+     [
+      23,
+      14
+     ],
+     [
+      16,
+      7
+     ],
+     [
+      16,
+      19
+     ],
+     [
+      13,
+      18
+     ]
+    ],
+    "home": [
+     {
+      "name": "Petrolini",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Giuliodori",
+      "pts": 1,
+      "played": true
+     },
+     {
+      "name": "Granato",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Corvaro",
+      "pts": 17,
+      "played": true
+     },
+     {
+      "name": "Agostinelli",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Ratti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Giannandrea",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Osimani",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Bellesi",
+      "pts": 18,
+      "played": true
+     },
+     {
+      "name": "Ciattaglia",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Ansevini",
+      "pts": 13,
+      "played": true
+     },
+     {
+      "name": "Bigioni",
+      "pts": 4,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Gasparrini",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Caldarigi",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Caporali G.",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Pierotti",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Mosciatti",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Staffaroni",
+      "pts": 16,
+      "played": true
+     },
+     {
+      "name": "Patrociello",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Paoletti",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Stefanelli",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Caporali M.",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "homeCoach": "Luconi",
+    "awayCoach": "Gentili",
+    "check": "mismatch"
+   }
   },
   {
    "id": "1142",
@@ -4781,14 +5063,17 @@
    "homePts": null,
    "awayPts": null,
    "played": false,
-   "status": "calendario",
+   "status": "designata",
    "venue": {
     "name": "Palestra Pietralacroce",
     "address": "Via F.lli Zuccari",
     "city": "Ancona",
     "province": "AN"
    },
-   "referees": [],
+   "referees": [
+    "Giovanni Andrea Molinaro",
+    "Daniele Bruschi"
+   ],
    "source": "fip-api"
   },
   {
@@ -4847,14 +5132,16 @@
    "homePts": null,
    "awayPts": null,
    "played": false,
-   "status": "calendario",
+   "status": "designata",
    "venue": {
     "name": "Pallone Geodetico",
     "address": "P.zza Bellini",
     "city": "Osimo",
     "province": "AN"
    },
-   "referees": [],
+   "referees": [
+    "Davide Sampaolesi"
+   ],
    "source": "fip-api"
   },
   {
@@ -4868,14 +5155,17 @@
    "homePts": null,
    "awayPts": null,
    "played": false,
-   "status": "calendario",
+   "status": "designata",
    "venue": {
     "name": "Palestra Scuole Elementari",
     "address": "Via Rossini 137",
     "city": "Castelfidardo",
     "province": "AN"
    },
-   "referees": [],
+   "referees": [
+    "Marco Angeloni",
+    "Giovanni Andrea Molinaro"
+   ],
    "source": "fip-api"
   },
   {
@@ -4910,14 +5200,17 @@
    "homePts": null,
    "awayPts": null,
    "played": false,
-   "status": "calendario",
+   "status": "designata",
    "venue": {
     "name": "Palascherma",
     "address": "Via Monte Pelago 10",
     "city": "Ancona",
     "province": "AN"
    },
-   "referees": [],
+   "referees": [
+    "Daniele Guercio",
+    "Erika Filippetti"
+   ],
    "source": "fip-api"
   },
   {
@@ -6833,6 +7126,7 @@
   }
  ],
  "warnings": [
+  "Gara 1141: somma punti tabellino 82-58 ≠ risultato 78-58",
   "Nome ambiguo in Pietralacroce 73 Ancona: \"Ansevini\" e \"Ansevini L.\", \"Ansevini D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Gladiatores Matelica: \"Porcarelli\" e \"Porcarelli D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Falconara Basket: \"Giampieri\" e \"Giampieri L.\", \"Giampieri T.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",

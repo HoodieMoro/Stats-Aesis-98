@@ -1,0 +1,147 @@
+{
+ "home": {
+  "label": "Vis Castelfidardo",
+  "players": [
+   {
+    "name": "Giantomasi",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Attili",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Gobbetti",
+    "pts": 26,
+    "played": true
+   },
+   {
+    "name": "Monaci",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Venturini",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Schiavoni",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Virgini",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Marrazzo",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Borsella",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Di Palma",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Massaccesi",
+    "pts": 12,
+    "played": true
+   }
+  ],
+  "coach": "Magrini"
+ },
+ "away": {
+  "label": "Unione Basket 2010",
+  "players": [
+   {
+    "name": "Kurti",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Brugnoni",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Greganti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Feo",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Palumbo",
+    "pts": 12,
+    "played": true
+   },
+   {
+    "name": "Sbarbati",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Palmucci",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Fabrizi",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Costarelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Duca",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Pergolini",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Santoni",
+    "pts": 4,
+    "played": true
+   }
+  ],
+  "coach": "Pepa"
+ },
+ "quarters": [
+  [
+   15,
+   8
+  ],
+  [
+   18,
+   11
+  ],
+  [
+   26,
+   15
+  ],
+  [
+   19,
+   13
+  ]
+ ]
+}

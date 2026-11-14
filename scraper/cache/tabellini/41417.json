@@ -1,0 +1,142 @@
+{
+ "home": {
+  "label": "P73 Ancona",
+  "players": [
+   {
+    "name": "Petrolini",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Giuliodori",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Granato",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Corvaro",
+    "pts": 17,
+    "played": true
+   },
+   {
+    "name": "Agostinelli",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Ratti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Giannandrea",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Osimani",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Bellesi",
+    "pts": 18,
+    "played": true
+   },
+   {
+    "name": "Ciattaglia",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Ansevini",
+    "pts": 13,
+    "played": true
+   },
+   {
+    "name": "Bigioni",
+    "pts": 4,
+    "played": true
+   }
+  ],
+  "coach": "Luconi"
+ },
+ "away": {
+  "label": "Basket School Fabriano",
+  "players": [
+   {
+    "name": "Gasparrini",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Caldarigi",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Caporali G.",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Pierotti",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Mosciatti",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Staffaroni",
+    "pts": 16,
+    "played": true
+   },
+   {
+    "name": "Patrociello",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Paoletti",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Stefanelli",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Caporali M.",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": "Gentili"
+ },
+ "quarters": [
+  [
+   23,
+   14
+  ],
+  [
+   16,
+   7
+  ],
+  [
+   16,
+   19
+  ],
+  [
+   13,
+   18
+  ]
+ ]
+}
