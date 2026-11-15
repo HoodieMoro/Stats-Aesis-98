@@ -1,0 +1,147 @@
+{
+ "home": {
+  "label": "Adriatico Ancona",
+  "players": [
+   {
+    "name": "Vitali Fi.",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Lambiase",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Vitali Fe.",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Scabini",
+    "pts": 12,
+    "played": true
+   },
+   {
+    "name": "Carboni",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Ciarrocchi",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Cecconi",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Gasparrini F.",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Di Felice",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Osimani",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Tamburini",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Naspi",
+    "pts": 12,
+    "played": true
+   }
+  ],
+  "coach": "Gasparrini M"
+ },
+ "away": {
+  "label": "Conero Razorbacks",
+  "players": [
+   {
+    "name": "Esposito",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Conte",
+    "pts": 13,
+    "played": true
+   },
+   {
+    "name": "Battagli",
+    "pts": 13,
+    "played": true
+   },
+   {
+    "name": "Bartocci",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Trovamala",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Alcidi",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Giacchetti",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Ponzella",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Centanni",
+    "pts": 11,
+    "played": true
+   },
+   {
+    "name": "Filippetti",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Lanari",
+    "pts": 2,
+    "played": true
+   }
+  ],
+  "coach": "Cingolani"
+ },
+ "quarters": [
+  [
+   16,
+   10
+  ],
+  [
+   19,
+   16
+  ],
+  [
+   11,
+   15
+  ],
+  [
+   17,
+   13
+  ]
+ ]
+}
