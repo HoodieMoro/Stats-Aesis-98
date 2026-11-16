@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-16T09:00:42.014Z",
+ "updatedAt": "2026-11-16T23:27:15.440Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -231,26 +231,26 @@
   {
    "team": "042467",
    "pos": 8,
-   "played": 4,
+   "played": 5,
    "won": 2,
-   "lost": 2,
-   "pf": 249,
-   "pa": 269,
+   "lost": 3,
+   "pf": 322,
+   "pa": 349,
    "points": 4,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "001423",
    "pos": 9,
-   "played": 3,
-   "won": 1,
+   "played": 4,
+   "won": 2,
    "lost": 2,
-   "pf": 133,
-   "pa": 205,
-   "points": 2,
+   "pf": 213,
+   "pa": 278,
+   "points": 4,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "054458",
@@ -5057,9 +5057,9 @@
    "time": "21:30",
    "home": "001423",
    "away": "042467",
-   "homePts": null,
-   "awayPts": null,
-   "played": false,
+   "homePts": 80,
+   "awayPts": 73,
+   "played": true,
    "status": "designata",
    "venue": {
     "name": "Palestra 'G.Ferraris'",
@@ -5071,7 +5071,8 @@
     "Alessandro Di Lello",
     "Giovanni Andrea Molinaro"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
   },
   {
    "id": "1144",
@@ -5095,7 +5096,8 @@
     "Angelo Tucci",
     "Riccardo Galassi"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
   },
   {
    "id": "1147",
@@ -7268,6 +7270,7 @@
   }
  ],
  "warnings": [
+  "Gara 1141: somma punti tabellino 82-58 ≠ risultato 78-58",
   "Nome ambiguo in Pietralacroce 73 Ancona: \"Ansevini\" e \"Ansevini L.\", \"Ansevini D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Gladiatores Matelica: \"Porcarelli\" e \"Porcarelli D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Falconara Basket: \"Giampieri\" e \"Giampieri L.\", \"Giampieri T.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
