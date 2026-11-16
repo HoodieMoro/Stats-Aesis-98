@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-15T23:28:13.270Z",
+ "updatedAt": "2026-11-16T09:00:42.014Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -4904,7 +4904,6 @@
     "Francesco Campanelli"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5",
    "boxscore": {
     "url": "https://www.basketmarche.it/tabellino-campionato-basket/adriatico-ancona-conero-razorbacks-5-andata-divisione-regionale-2-girone-b/41419",
     "quarters": [
@@ -5047,7 +5046,8 @@
     "homeCoach": "Gasparrini M",
     "awayCoach": "Cingolani",
     "check": "ok"
-   }
+   },
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
   },
   {
    "id": "1139",
@@ -5071,8 +5071,7 @@
     "Alessandro Di Lello",
     "Giovanni Andrea Molinaro"
    ],
-   "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
+   "source": "fip-api"
   },
   {
    "id": "1144",
@@ -5096,8 +5095,7 @@
     "Angelo Tucci",
     "Riccardo Galassi"
    ],
-   "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
+   "source": "fip-api"
   },
   {
    "id": "1147",
@@ -5283,7 +5281,8 @@
     "province": "AN"
    },
    "referees": [
-    "Davide Sampaolesi"
+    "Davide Sampaolesi",
+    "Riccardo Galassi"
    ],
    "source": "fip-api"
   },
@@ -7269,7 +7268,6 @@
   }
  ],
  "warnings": [
-  "Gara 1141: somma punti tabellino 82-58 ≠ risultato 78-58",
   "Nome ambiguo in Pietralacroce 73 Ancona: \"Ansevini\" e \"Ansevini L.\", \"Ansevini D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Gladiatores Matelica: \"Porcarelli\" e \"Porcarelli D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Falconara Basket: \"Giampieri\" e \"Giampieri L.\", \"Giampieri T.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
