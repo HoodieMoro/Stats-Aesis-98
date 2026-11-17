@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-17T07:36:53.541Z",
+ "updatedAt": "2026-11-17T23:34:39.844Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -5072,7 +5072,6 @@
     "Giovanni Andrea Molinaro"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5",
    "boxscore": {
     "url": "https://www.basketmarche.it/tabellino-campionato-basket/falconara-basket-aesis-98-jesi-5-andata-divisione-regionale-2-girone-b/41420",
     "quarters": [
@@ -5220,7 +5219,8 @@
     "homeCoach": null,
     "awayCoach": "Mosca M",
     "check": "ok"
-   }
+   },
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
   },
   {
    "id": "1144",
@@ -5244,8 +5244,7 @@
     "Angelo Tucci",
     "Riccardo Galassi"
    ],
-   "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
+   "source": "fip-api"
   },
   {
    "id": "1147",
@@ -7418,7 +7417,6 @@
   }
  ],
  "warnings": [
-  "Gara 1141: somma punti tabellino 82-58 ≠ risultato 78-58",
   "Nome ambiguo in Pietralacroce 73 Ancona: \"Ansevini\" e \"Ansevini L.\", \"Ansevini D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Gladiatores Matelica: \"Porcarelli\" e \"Porcarelli D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Falconara Basket: \"Giampieri\" e \"Giampieri L.\", \"Giampieri T.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
