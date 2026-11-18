@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-17T23:34:39.844Z",
+ "updatedAt": "2026-11-18T07:34:01.742Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -229,20 +229,8 @@
    "provisional": 0
   },
   {
-   "team": "042467",
-   "pos": 8,
-   "played": 5,
-   "won": 2,
-   "lost": 3,
-   "pf": 322,
-   "pa": 349,
-   "points": 4,
-   "penalty": 0,
-   "provisional": 1
-  },
-  {
    "team": "001423",
-   "pos": 9,
+   "pos": 8,
    "played": 4,
    "won": 2,
    "lost": 2,
@@ -250,7 +238,19 @@
    "pa": 278,
    "points": 4,
    "penalty": 0,
-   "provisional": 1
+   "provisional": 0
+  },
+  {
+   "team": "042467",
+   "pos": 9,
+   "played": 5,
+   "won": 2,
+   "lost": 3,
+   "pf": 322,
+   "pa": 349,
+   "points": 4,
+   "penalty": 0,
+   "provisional": 0
   },
   {
    "team": "006291",
@@ -368,19 +368,30 @@
    "penalty": 0
   },
   {
-   "team": "042467",
+   "team": "001423",
    "pos": 8,
    "played": 4,
    "won": 2,
    "lost": 2,
-   "pf": 249,
-   "pa": 269,
+   "pf": 213,
+   "pa": 278,
+   "points": 4,
+   "penalty": 0
+  },
+  {
+   "team": "042467",
+   "pos": 9,
+   "played": 5,
+   "won": 2,
+   "lost": 3,
+   "pf": 322,
+   "pa": 349,
    "points": 4,
    "penalty": 0
   },
   {
    "team": "006291",
-   "pos": 9,
+   "pos": 10,
    "played": 5,
    "won": 1,
    "lost": 4,
@@ -391,23 +402,12 @@
   },
   {
    "team": "054458",
-   "pos": 10,
+   "pos": 11,
    "played": 5,
    "won": 1,
    "lost": 4,
    "pf": 297,
    "pa": 338,
-   "points": 2,
-   "penalty": 0
-  },
-  {
-   "team": "001423",
-   "pos": 11,
-   "played": 3,
-   "won": 1,
-   "lost": 2,
-   "pf": 133,
-   "pa": 205,
    "points": 2,
    "penalty": 0
   },
@@ -5060,7 +5060,7 @@
    "homePts": 80,
    "awayPts": 73,
    "played": true,
-   "status": "designata",
+   "status": "omologata",
    "venue": {
     "name": "Palestra 'G.Ferraris'",
     "address": "Via Speri",
@@ -5470,14 +5470,17 @@
    "homePts": null,
    "awayPts": null,
    "played": false,
-   "status": "calendario",
+   "status": "designata",
    "venue": {
     "name": "Palasport Matelica",
     "address": "Borgo Nazario Sauro",
     "city": "Matelica",
     "province": "MC"
    },
-   "referees": [],
+   "referees": [
+    "Asia Mancini",
+    "Delio Camporeale"
+   ],
    "source": "fip-api"
   },
   {
