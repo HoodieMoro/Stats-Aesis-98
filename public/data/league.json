@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-18T23:34:39.508Z",
+ "updatedAt": "2026-11-19T07:37:11.694Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -5338,7 +5338,6 @@
     "province": "AN"
    },
    "referees": [
-    "Mattia Sisi",
     "Erika Filippetti"
    ],
    "source": "fip-api"
@@ -7422,6 +7421,7 @@
  ],
  "warnings": [
   "Gara 1141: somma punti tabellino 82-58 ≠ risultato 78-58",
+  "Tabellino 41421 (PB 1992 Polverigi Camerata Basket Blu - Montevalle Academy) in formato non riconosciuto",
   "Nome ambiguo in Pietralacroce 73 Ancona: \"Ansevini\" e \"Ansevini L.\", \"Ansevini D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Gladiatores Matelica: \"Porcarelli\" e \"Porcarelli D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Falconara Basket: \"Giampieri\" e \"Giampieri L.\", \"Giampieri T.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
