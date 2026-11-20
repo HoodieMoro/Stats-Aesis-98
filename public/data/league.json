@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-19T23:28:29.060Z",
+ "updatedAt": "2026-11-20T07:34:54.788Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -157,32 +157,8 @@
    "provisional": 0
   },
   {
-   "team": "056402",
-   "pos": 2,
-   "played": 4,
-   "won": 3,
-   "lost": 1,
-   "pf": 263,
-   "pa": 218,
-   "points": 6,
-   "penalty": 0,
-   "provisional": 0
-  },
-  {
-   "team": "055995",
-   "pos": 3,
-   "played": 5,
-   "won": 3,
-   "lost": 2,
-   "pf": 342,
-   "pa": 329,
-   "points": 6,
-   "penalty": 0,
-   "provisional": 0
-  },
-  {
    "team": "001433",
-   "pos": 4,
+   "pos": 2,
    "played": 5,
    "won": 3,
    "lost": 2,
@@ -193,8 +169,44 @@
    "provisional": 0
   },
   {
-   "team": "000568",
+   "team": "056402",
+   "pos": 3,
+   "played": 4,
+   "won": 3,
+   "lost": 1,
+   "pf": 263,
+   "pa": 218,
+   "points": 6,
+   "penalty": 0,
+   "provisional": 0
+  },
+  {
+   "team": "030272",
+   "pos": 4,
+   "played": 5,
+   "won": 3,
+   "lost": 2,
+   "pf": 315,
+   "pa": 298,
+   "points": 6,
+   "penalty": 0,
+   "provisional": 0
+  },
+  {
+   "team": "055995",
    "pos": 5,
+   "played": 5,
+   "won": 3,
+   "lost": 2,
+   "pf": 342,
+   "pa": 329,
+   "points": 6,
+   "penalty": 0,
+   "provisional": 0
+  },
+  {
+   "team": "000568",
+   "pos": 6,
    "played": 5,
    "won": 3,
    "lost": 2,
@@ -202,11 +214,11 @@
    "pa": 264,
    "points": 6,
    "penalty": 0,
-   "provisional": 1
+   "provisional": 0
   },
   {
    "team": "052284",
-   "pos": 6,
+   "pos": 7,
    "played": 5,
    "won": 3,
    "lost": 2,
@@ -215,18 +227,6 @@
    "points": 6,
    "penalty": 0,
    "provisional": 0
-  },
-  {
-   "team": "030272",
-   "pos": 7,
-   "played": 5,
-   "won": 3,
-   "lost": 2,
-   "pf": 315,
-   "pa": 298,
-   "points": 6,
-   "penalty": 0,
-   "provisional": 1
   },
   {
    "team": "001423",
@@ -302,30 +302,8 @@
    "penalty": 0
   },
   {
-   "team": "056402",
-   "pos": 2,
-   "played": 4,
-   "won": 3,
-   "lost": 1,
-   "pf": 263,
-   "pa": 218,
-   "points": 6,
-   "penalty": 0
-  },
-  {
-   "team": "055995",
-   "pos": 3,
-   "played": 5,
-   "won": 3,
-   "lost": 2,
-   "pf": 342,
-   "pa": 329,
-   "points": 6,
-   "penalty": 0
-  },
-  {
    "team": "001433",
-   "pos": 4,
+   "pos": 2,
    "played": 5,
    "won": 3,
    "lost": 2,
@@ -335,36 +313,58 @@
    "penalty": 0
   },
   {
-   "team": "000568",
-   "pos": 5,
+   "team": "056402",
+   "pos": 3,
    "played": 4,
    "won": 3,
    "lost": 1,
-   "pf": 244,
-   "pa": 188,
+   "pf": 263,
+   "pa": 218,
+   "points": 6,
+   "penalty": 0
+  },
+  {
+   "team": "030272",
+   "pos": 4,
+   "played": 5,
+   "won": 3,
+   "lost": 2,
+   "pf": 315,
+   "pa": 298,
+   "points": 6,
+   "penalty": 0
+  },
+  {
+   "team": "055995",
+   "pos": 5,
+   "played": 5,
+   "won": 3,
+   "lost": 2,
+   "pf": 342,
+   "pa": 329,
+   "points": 6,
+   "penalty": 0
+  },
+  {
+   "team": "000568",
+   "pos": 6,
+   "played": 5,
+   "won": 3,
+   "lost": 2,
+   "pf": 318,
+   "pa": 264,
    "points": 6,
    "penalty": 0
   },
   {
    "team": "052284",
-   "pos": 6,
+   "pos": 7,
    "played": 5,
    "won": 3,
    "lost": 2,
    "pf": 335,
    "pa": 337,
    "points": 6,
-   "penalty": 0
-  },
-  {
-   "team": "030272",
-   "pos": 7,
-   "played": 4,
-   "won": 2,
-   "lost": 2,
-   "pf": 239,
-   "pa": 224,
-   "points": 4,
    "penalty": 0
   },
   {
@@ -5233,7 +5233,7 @@
    "homePts": 76,
    "awayPts": 74,
    "played": true,
-   "status": "designata",
+   "status": "omologata",
    "venue": {
     "name": "Pal.dello Sport PALASIGE Alessio Pergolesi",
     "address": "Via Circonvallazione",
@@ -5338,6 +5338,7 @@
     "province": "AN"
    },
    "referees": [
+    "Alessandro Di Lello",
     "Erika Filippetti"
    ],
    "source": "fip-api"
@@ -5377,14 +5378,17 @@
    "homePts": null,
    "awayPts": null,
    "played": false,
-   "status": "calendario",
+   "status": "designata",
    "venue": {
     "name": "Palestra G. Falcone",
     "address": "Via Flavia",
     "city": "Ancona",
     "province": "AN"
    },
-   "referees": [],
+   "referees": [
+    "Lorenzo Cotellessa",
+    "Gabriele Rao"
+   ],
    "source": "fip-api"
   },
   {
@@ -5503,7 +5507,7 @@
    },
    "referees": [
     "Daniele Guercio",
-    "Erika Filippetti"
+    "Gabriele Rao"
    ],
    "source": "fip-api"
   },
@@ -5518,14 +5522,17 @@
    "homePts": null,
    "awayPts": null,
    "played": false,
-   "status": "calendario",
+   "status": "designata",
    "venue": {
     "name": "Palestra 'G.Ferraris'",
     "address": "Via Speri",
     "city": "Falconara Marittima",
     "province": "AN"
    },
-   "referees": [],
+   "referees": [
+    "Alessandro Di Lello",
+    "Giovanni Andrea Molinaro"
+   ],
    "source": "fip-api"
   },
   {
@@ -5539,14 +5546,17 @@
    "homePts": null,
    "awayPts": null,
    "played": false,
-   "status": "calendario",
+   "status": "designata",
    "venue": {
     "name": "PalaMenotti",
     "address": "Viale Delle Querce",
     "city": "Montemarciano",
     "province": "AN"
    },
-   "referees": [],
+   "referees": [
+    "Niccolo' Flocco",
+    "Giovanni Cegna"
+   ],
    "source": "fip-api"
   },
   {
@@ -5560,14 +5570,17 @@
    "homePts": null,
    "awayPts": null,
    "played": false,
-   "status": "calendario",
+   "status": "designata",
    "venue": {
     "name": "PALESTRA MAZZINI",
     "address": "Via Fabbri Zona Borgo",
     "city": "Fabriano",
     "province": "AN"
    },
-   "referees": [],
+   "referees": [
+    "Matteo Paglialunga",
+    "Italo Adinolfi"
+   ],
    "source": "fip-api"
   },
   {
@@ -5581,14 +5594,17 @@
    "homePts": null,
    "awayPts": null,
    "played": false,
-   "status": "calendario",
+   "status": "designata",
    "venue": {
     "name": "Palestra MICS",
     "address": "via Venezia - Moie",
     "city": "Maiolati Spontini",
     "province": "AN"
    },
-   "referees": [],
+   "referees": [
+    "Asia Mancini",
+    "Giovanni Cegna"
+   ],
    "source": "fip-api"
   },
   {
@@ -5623,14 +5639,17 @@
    "homePts": null,
    "awayPts": null,
    "played": false,
-   "status": "calendario",
+   "status": "designata",
    "venue": {
     "name": "Palestra \"P.Novelli\"",
     "address": "Via Del Prato 11",
     "city": "Jesi",
     "province": "AN"
    },
-   "referees": [],
+   "referees": [
+    "Giovanni Andrea Molinaro",
+    "Marco Angeloni"
+   ],
    "source": "fip-api"
   },
   {
@@ -5644,14 +5663,17 @@
    "homePts": null,
    "awayPts": null,
    "played": false,
-   "status": "calendario",
+   "status": "designata",
    "venue": {
     "name": "Palestra G. Falcone",
     "address": "Via Flavia",
     "city": "Ancona",
     "province": "AN"
    },
-   "referees": [],
+   "referees": [
+    "Gabriele Rao",
+    "Daniele Bruschi"
+   ],
    "source": "fip-api"
   },
   {
