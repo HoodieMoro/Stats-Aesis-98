@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-20T23:29:05.484Z",
+ "updatedAt": "2026-11-21T07:27:49.828Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -5392,7 +5392,7 @@
    },
    "referees": [
     "Lorenzo Cotellessa",
-    "Gabriele Rao"
+    "Daniele Bruschi"
    ],
    "source": "fip-api",
    "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/6"
@@ -5512,8 +5512,7 @@
     "province": "AN"
    },
    "referees": [
-    "Daniele Guercio",
-    "Gabriele Rao"
+    "Daniele Guercio"
    ],
    "source": "fip-api"
   },
@@ -5677,7 +5676,6 @@
     "province": "AN"
    },
    "referees": [
-    "Gabriele Rao",
     "Daniele Bruschi"
    ],
    "source": "fip-api"
