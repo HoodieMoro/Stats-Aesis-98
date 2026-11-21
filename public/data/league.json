@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-21T07:27:49.828Z",
+ "updatedAt": "2026-11-21T23:23:19.218Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -147,14 +147,14 @@
   {
    "team": "000334",
    "pos": 1,
-   "played": 5,
-   "won": 5,
+   "played": 6,
+   "won": 6,
    "lost": 0,
-   "pf": 401,
-   "pa": 279,
-   "points": 10,
+   "pf": 473,
+   "pa": 339,
+   "points": 12,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "055995",
@@ -243,14 +243,14 @@
   {
    "team": "001423",
    "pos": 9,
-   "played": 4,
+   "played": 5,
    "won": 2,
-   "lost": 2,
-   "pf": 213,
-   "pa": 278,
+   "lost": 3,
+   "pf": 273,
+   "pa": 350,
    "points": 4,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "054458",
@@ -5355,9 +5355,9 @@
    "time": "19:00",
    "home": "000334",
    "away": "001423",
-   "homePts": null,
-   "awayPts": null,
-   "played": false,
+   "homePts": 72,
+   "awayPts": 60,
+   "played": true,
    "status": "designata",
    "venue": {
     "name": "Palestra Pietralacroce",
