@@ -49,18 +49,27 @@ export async function fetchRound(leg, round) {
 export function parseBoxscore(html) {
   const start = html.indexOf('class="interno_news"');
   if (start < 0) return null;
-  let block = html.slice(start, start + 8000);
+  // L'articolo può contenere banner pubblicitari (<div>, commenti) prima del tabellino:
+  // si legge tutto il contenitore e si divide in righe su <br>, <p> e <div>.
+  let block = html.slice(start, start + 60000);
   block = block.slice(block.indexOf('>') + 1);
-  const end = block.search(/<!--|<div/i);
+  const end = block.search(/<footer|class="(?:col-|sidebar)/i);
   if (end > 0) block = block.slice(0, end);
+  block = block
+    .replace(/<!--[\s\S]*?-->/g, ' ')
+    .replace(/<(script|style|ins|iframe)[\s\S]*?<\/\1>/gi, ' ');
   const lines = block
-    .split(/<br\s*\/?>/i)
+    .split(/<br\s*\/?>|<\/?p[\s>]|<\/?div[\s>]/i)
     .map((l) => decode(l.replace(/<[^>]+>/g, ' ')))
     .filter(Boolean);
 
+  // il tabellino sono le righe "Squadra: giocatori..." subito prima di "Parziali"
+  const pIdx = lines.findIndex((l) => /^Parziali\s*:/i.test(l));
+  const scope = pIdx > 0 ? lines.slice(Math.max(0, pIdx - 6), pIdx + 1) : lines;
+
   const teams = [];
   let quarters = null;
-  for (const line of lines) {
+  for (const line of scope) {
     const q = line.match(/^Parziali\s*:\s*(.+)$/i);
     if (q) {
       quarters = [...q[1].matchAll(/(\d{1,3})\s*-\s*(\d{1,3})/g)].map((m) => [Number(m[1]), Number(m[2])]);
@@ -68,7 +77,7 @@ export function parseBoxscore(html) {
     }
     if (/^(Progressivi|Uscit[oi]|Arbitri|Note|Spettatori|Tiri|Parziale)/i.test(line)) continue;
     const m = line.match(/^([^:]{2,60}):\s*(.+)$/);
-    if (!m || teams.length >= 2) continue;
+    if (!m) continue;
     let body = m[2];
     let coach = null;
     const c = body.match(/\.?\s*All(?:enatore|\.)\s*:?\s*(.+)$/i);
@@ -94,7 +103,8 @@ export function parseBoxscore(html) {
     if (players.length >= 3) teams.push({ label: m[1].trim(), players, coach });
   }
   if (teams.length < 2) return null;
-  return { home: teams[0], away: teams[1], quarters };
+  const [home, away] = teams.slice(-2); // le ultime due prima dei parziali
+  return { home, away, quarters };
 }
 
 export async function fetchBoxscore(url) {
