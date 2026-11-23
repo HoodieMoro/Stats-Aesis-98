@@ -1,0 +1,156 @@
+{
+ "home": {
+  "label": "Aesis Jesi",
+  "players": [
+   {
+    "name": "Sami Slama",
+    "pts": 24,
+    "played": true
+   },
+   {
+    "name": "Lardinelli",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Ogiemwonyi",
+    "pts": 13,
+    "played": true
+   },
+   {
+    "name": "Cardinali",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Ceccarelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Montanari",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Brutti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Nemchenko",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Sabri Slama",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Stronati",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Mosca G.",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Agusti",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": "Mosca M"
+ },
+ "away": {
+  "label": "P73 Ancona",
+  "players": [
+   {
+    "name": "Petrolini",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Agostinelli",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Giuliodori",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Granato",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Corvaro",
+    "pts": 13,
+    "played": true
+   },
+   {
+    "name": "Ratti",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Fioroni",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Bellesi",
+    "pts": 12,
+    "played": true
+   },
+   {
+    "name": "Anzini",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Bigioni",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Ansevini D.",
+    "pts": 12,
+    "played": true
+   },
+   {
+    "name": "Ansevini L.",
+    "pts": 2,
+    "played": true
+   }
+  ],
+  "coach": "Luconi"
+ },
+ "quarters": [
+  [
+   13,
+   15
+  ],
+  [
+   9,
+   11
+  ],
+  [
+   15,
+   12
+  ],
+  [
+   8,
+   7
+  ],
+  [
+   9,
+   5
+  ]
+ ]
+}

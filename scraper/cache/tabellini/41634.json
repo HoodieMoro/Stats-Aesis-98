@@ -1,0 +1,147 @@
+{
+ "home": {
+  "label": "Adriatico Ancona",
+  "players": [
+   {
+    "name": "Tamburini",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Buontempi",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Vitali Fe.",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Scabini",
+    "pts": 14,
+    "played": true
+   },
+   {
+    "name": "Ripanti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Ciarrocchi",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Cecconi",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Gasparrini F.",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Di Felice",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Osimani",
+    "pts": 12,
+    "played": true
+   },
+   {
+    "name": "Gasparrini A.",
+    "pts": 3,
+    "played": true
+   }
+  ],
+  "coach": "Gasparrini"
+ },
+ "away": {
+  "label": "Falconara Basket",
+  "players": [
+   {
+    "name": "Gambelli",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Bianchi",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Giampieri T.",
+    "pts": 13,
+    "played": true
+   },
+   {
+    "name": "Cardinali G.",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Ciaffi",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Cardinali M.",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Latini",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Ogiemwonyi",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Dottori",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "D'Archivio",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Moretti",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Giampieri L.",
+    "pts": 1,
+    "played": true
+   }
+  ],
+  "coach": null
+ },
+ "quarters": [
+  [
+   28,
+   16
+  ],
+  [
+   13,
+   17
+  ],
+  [
+   18,
+   14
+  ],
+  [
+   13,
+   13
+  ]
+ ]
+}

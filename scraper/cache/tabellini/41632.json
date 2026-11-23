@@ -1,0 +1,152 @@
+{
+ "home": {
+  "label": "Unione Basket 2010",
+  "players": [
+   {
+    "name": "Duca",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Kurti",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Brugnoni",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Greganti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Pergolini",
+    "pts": 15,
+    "played": true
+   },
+   {
+    "name": "Santoni",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Feo",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Pieralisi",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Sbarbati",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Palmucci",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Costarelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Pergolesi",
+    "pts": 4,
+    "played": true
+   }
+  ],
+  "coach": "Pepa"
+ },
+ "away": {
+  "label": "Gladiatores Matelica",
+  "players": [
+   {
+    "name": "Gentilucci",
+    "pts": 19,
+    "played": true
+   },
+   {
+    "name": "Porcarelli D.",
+    "pts": 19,
+    "played": true
+   },
+   {
+    "name": "Boni",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Brugnola",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Mori",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Offor",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Cingolani",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Sacco",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Ferretti",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Zamparini",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Fenucci",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Orsini",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": "Porcarelli R"
+ },
+ "quarters": [
+  [
+   18,
+   22
+  ],
+  [
+   20,
+   25
+  ],
+  [
+   4,
+   14
+  ],
+  [
+   13,
+   12
+  ]
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "home": {
+  "label": "PB 1992 Polverigi Basket Blu",
+  "players": [
+   {
+    "name": "Farinelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Curina",
+    "pts": 13,
+    "played": true
+   },
+   {
+    "name": "Catena",
+    "pts": 25,
+    "played": true
+   },
+   {
+    "name": "Mazzoni",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Frittella",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Balzani",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Rossi",
+    "pts": 14,
+    "played": true
+   },
+   {
+    "name": "Risaliti",
+    "pts": 1,
+    "played": true
+   },
+   {
+    "name": "Sbaffo",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Salemi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Baldini",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Messina",
+    "pts": 5,
+    "played": true
+   }
+  ],
+  "coach": "Bonventi"
+ },
+ "away": {
+  "label": "Montevalle Academy",
+  "players": [
+   {
+    "name": "Mosca",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Ferri",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Guidi",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Paolinelli",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Carbonaro",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Burzacchini",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Gigli",
+    "pts": 22,
+    "played": true
+   },
+   {
+    "name": "Castelli",
+    "pts": 11,
+    "played": true
+   },
+   {
+    "name": "Carbonari",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Crinelli",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Epstein",
+    "pts": 12,
+    "played": true
+   }
+  ],
+  "coach": null
+ },
+ "quarters": [
+  [
+   20,
+   24
+  ],
+  [
+   15,
+   17
+  ],
+  [
+   26,
+   19
+  ],
+  [
+   15,
+   14
+  ]
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "home": {
+  "label": "Montevalle Academy",
+  "players": [
+   {
+    "name": "Mosca",
+    "pts": 11,
+    "played": true
+   },
+   {
+    "name": "Guidi",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Paolinelli",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Carbonaro",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Burzacchini",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Castelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Carbonari",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Vallesi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Crinelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Catani",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Epstein",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Gigli",
+    "pts": 14,
+    "played": true
+   }
+  ],
+  "coach": null
+ },
+ "away": {
+  "label": "Vis Castelfidardo",
+  "players": [
+   {
+    "name": "Giantomasi",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Attili",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Gobbetti",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Monaci",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Venturini",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Schiavoni",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Marrazzo",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Francioni",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Borsella",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Di Palma",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Massaccesi",
+    "pts": 8,
+    "played": true
+   }
+  ],
+  "coach": "Magrini"
+ },
+ "quarters": [
+  [
+   18,
+   15
+  ],
+  [
+   7,
+   6
+  ],
+  [
+   15,
+   12
+  ],
+  [
+   13,
+   11
+  ]
+ ]
+}
