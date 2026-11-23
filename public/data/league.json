@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-23T10:02:11.227Z",
+ "updatedAt": "2026-11-23T23:35:18.389Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -5245,7 +5245,6 @@
     "Riccardo Galassi"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5",
    "boxscore": {
     "url": "https://www.basketmarche.it/tabellino-campionato-basket/pb-1992-polverigi-camerata-basket-blu-montevalle-academy-5-andata-divisione-regionale-2-girone-b/41421",
     "quarters": [
@@ -5388,7 +5387,8 @@
     "homeCoach": "Bonventi",
     "awayCoach": null,
     "check": "ok"
-   }
+   },
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/5"
   },
   {
    "id": "1147",
@@ -5413,7 +5413,6 @@
     "Asia Mancini"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/6",
    "boxscore": {
     "url": "https://www.basketmarche.it/tabellino-campionato-basket/basket-school-fabriano-project-basket-osimo-6-andata-divisione-regionale-2-girone-b/41631",
     "quarters": [
@@ -5551,7 +5550,8 @@
     "homeCoach": "Gentili",
     "awayCoach": "Mosca",
     "check": "ok"
-   }
+   },
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/6"
   },
   {
    "id": "1148",
@@ -5576,7 +5576,6 @@
     "Giovanni Cegna"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/6",
    "boxscore": {
     "url": "https://www.basketmarche.it/tabellino-campionato-basket/unione-basket-2010-jesi-gladiatores-matelica-6-andata-divisione-regionale-2-girone-b/41632",
     "quarters": [
@@ -5724,7 +5723,8 @@
     "homeCoach": "Pepa",
     "awayCoach": "Porcarelli R",
     "check": "ok"
-   }
+   },
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/6"
   },
   {
    "id": "1145",
@@ -5749,7 +5749,6 @@
     "Daniele Bruschi"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/6",
    "boxscore": {
     "url": "https://www.basketmarche.it/tabellino-campionato-basket/montevalle-academy-vis-castelfidardo-6-andata-divisione-regionale-2-girone-b/41630",
     "quarters": [
@@ -5892,7 +5891,8 @@
     "homeCoach": null,
     "awayCoach": "Magrini",
     "check": "ok"
-   }
+   },
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/6"
   },
   {
    "id": "1150",
@@ -5917,7 +5917,6 @@
     "Erika Filippetti"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/6",
    "boxscore": {
     "url": "https://www.basketmarche.it/tabellino-campionato-basket/aesis-98-jesi-pietralacroce-73-ancona-6-andata-divisione-regionale-2-girone-b/41633",
     "quarters": [
@@ -6069,7 +6068,8 @@
     "homeCoach": "Mosca M",
     "awayCoach": "Luconi",
     "check": "ok"
-   }
+   },
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/6"
   },
   {
    "id": "1146",
@@ -6094,7 +6094,6 @@
     "Daniele Bruschi"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/6",
    "boxscore": {
     "url": "https://www.basketmarche.it/tabellino-campionato-basket/adriatico-ancona-falconara-basket-6-andata-divisione-regionale-2-girone-b/41634",
     "quarters": [
@@ -6237,7 +6236,8 @@
     "homeCoach": "Gasparrini",
     "awayCoach": null,
     "check": "mismatch"
-   }
+   },
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/6"
   },
   {
    "id": "1149",
@@ -6261,8 +6261,7 @@
     "Lorenzo Cotellessa",
     "Daniele Bruschi"
    ],
-   "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/6"
+   "source": "fip-api"
   },
   {
    "id": "1153",
@@ -8315,8 +8314,6 @@
   }
  ],
  "warnings": [
-  "Gara 1141: somma punti tabellino 82-58 ≠ risultato 78-58",
-  "Gara 1146: somma punti tabellino 67-60 ≠ risultato 72-60",
   "Nome ambiguo in Pietralacroce 73 Ancona: \"Ansevini\" e \"Ansevini L.\", \"Ansevini D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Gladiatores Matelica: \"Porcarelli\" e \"Porcarelli D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Falconara Basket: \"Giampieri\" e \"Giampieri L.\", \"Giampieri T.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
