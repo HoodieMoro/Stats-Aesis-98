@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-23T23:35:18.389Z",
+ "updatedAt": "2026-11-24T07:38:39.813Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -154,23 +154,11 @@
    "pa": 339,
    "points": 12,
    "penalty": 0,
-   "provisional": 1
-  },
-  {
-   "team": "055995",
-   "pos": 2,
-   "played": 6,
-   "won": 4,
-   "lost": 2,
-   "pf": 415,
-   "pa": 384,
-   "points": 8,
-   "penalty": 0,
-   "provisional": 1
+   "provisional": 0
   },
   {
    "team": "000568",
-   "pos": 3,
+   "pos": 2,
    "played": 6,
    "won": 4,
    "lost": 2,
@@ -178,7 +166,19 @@
    "pa": 308,
    "points": 8,
    "penalty": 0,
-   "provisional": 1
+   "provisional": 0
+  },
+  {
+   "team": "055995",
+   "pos": 3,
+   "played": 6,
+   "won": 4,
+   "lost": 2,
+   "pf": 415,
+   "pa": 384,
+   "points": 8,
+   "penalty": 0,
+   "provisional": 0
   },
   {
    "team": "001433",
@@ -190,7 +190,7 @@
    "pa": 330,
    "points": 6,
    "penalty": 0,
-   "provisional": 1
+   "provisional": 0
   },
   {
    "team": "056402",
@@ -205,8 +205,20 @@
    "provisional": 0
   },
   {
-   "team": "030272",
+   "team": "052284",
    "pos": 6,
+   "played": 6,
+   "won": 3,
+   "lost": 3,
+   "pf": 390,
+   "pa": 410,
+   "points": 6,
+   "penalty": 0,
+   "provisional": 0
+  },
+  {
+   "team": "030272",
+   "pos": 7,
    "played": 5,
    "won": 3,
    "lost": 2,
@@ -215,18 +227,6 @@
    "points": 6,
    "penalty": 0,
    "provisional": 0
-  },
-  {
-   "team": "052284",
-   "pos": 7,
-   "played": 6,
-   "won": 3,
-   "lost": 3,
-   "pf": 390,
-   "pa": 410,
-   "points": 6,
-   "penalty": 0,
-   "provisional": 1
   },
   {
    "team": "042467",
@@ -238,23 +238,11 @@
    "pa": 399,
    "points": 6,
    "penalty": 0,
-   "provisional": 1
-  },
-  {
-   "team": "001423",
-   "pos": 9,
-   "played": 5,
-   "won": 2,
-   "lost": 3,
-   "pf": 273,
-   "pa": 350,
-   "points": 4,
-   "penalty": 0,
-   "provisional": 1
+   "provisional": 0
   },
   {
    "team": "054458",
-   "pos": 10,
+   "pos": 9,
    "played": 6,
    "won": 2,
    "lost": 4,
@@ -262,7 +250,19 @@
    "pa": 386,
    "points": 4,
    "penalty": 0,
-   "provisional": 1
+   "provisional": 0
+  },
+  {
+   "team": "001423",
+   "pos": 10,
+   "played": 5,
+   "won": 2,
+   "lost": 3,
+   "pf": 273,
+   "pa": 350,
+   "points": 4,
+   "penalty": 0,
+   "provisional": 0
   },
   {
    "team": "006291",
@@ -274,7 +274,7 @@
    "pa": 382,
    "points": 2,
    "penalty": 0,
-   "provisional": 1
+   "provisional": 0
   },
   {
    "team": "051572",
@@ -286,35 +286,57 @@
    "pa": 460,
    "points": 0,
    "penalty": 0,
-   "provisional": 1
+   "provisional": 0
   }
  ],
  "standingsOfficial": [
   {
    "team": "000334",
    "pos": 1,
-   "played": 5,
-   "won": 5,
+   "played": 6,
+   "won": 6,
    "lost": 0,
-   "pf": 401,
-   "pa": 279,
-   "points": 10,
+   "pf": 473,
+   "pa": 339,
+   "points": 12,
+   "penalty": 0
+  },
+  {
+   "team": "000568",
+   "pos": 2,
+   "played": 6,
+   "won": 4,
+   "lost": 2,
+   "pf": 371,
+   "pa": 308,
+   "points": 8,
+   "penalty": 0
+  },
+  {
+   "team": "055995",
+   "pos": 3,
+   "played": 6,
+   "won": 4,
+   "lost": 2,
+   "pf": 415,
+   "pa": 384,
+   "points": 8,
    "penalty": 0
   },
   {
    "team": "001433",
-   "pos": 2,
-   "played": 5,
+   "pos": 4,
+   "played": 6,
    "won": 3,
-   "lost": 2,
-   "pf": 297,
-   "pa": 277,
+   "lost": 3,
+   "pf": 341,
+   "pa": 330,
    "points": 6,
    "penalty": 0
   },
   {
    "team": "056402",
-   "pos": 3,
+   "pos": 5,
    "played": 4,
    "won": 3,
    "lost": 1,
@@ -324,8 +346,19 @@
    "penalty": 0
   },
   {
+   "team": "052284",
+   "pos": 6,
+   "played": 6,
+   "won": 3,
+   "lost": 3,
+   "pf": 390,
+   "pa": 410,
+   "points": 6,
+   "penalty": 0
+  },
+  {
    "team": "030272",
-   "pos": 4,
+   "pos": 7,
    "played": 5,
    "won": 3,
    "lost": 2,
@@ -335,90 +368,57 @@
    "penalty": 0
   },
   {
-   "team": "055995",
-   "pos": 5,
-   "played": 5,
-   "won": 3,
-   "lost": 2,
-   "pf": 342,
-   "pa": 329,
-   "points": 6,
-   "penalty": 0
-  },
-  {
-   "team": "000568",
-   "pos": 6,
-   "played": 5,
-   "won": 3,
-   "lost": 2,
-   "pf": 318,
-   "pa": 264,
-   "points": 6,
-   "penalty": 0
-  },
-  {
-   "team": "052284",
-   "pos": 7,
-   "played": 5,
-   "won": 3,
-   "lost": 2,
-   "pf": 335,
-   "pa": 337,
-   "points": 6,
-   "penalty": 0
-  },
-  {
-   "team": "001423",
+   "team": "042467",
    "pos": 8,
-   "played": 4,
+   "played": 6,
+   "won": 3,
+   "lost": 3,
+   "pf": 376,
+   "pa": 399,
+   "points": 6,
+   "penalty": 0
+  },
+  {
+   "team": "054458",
+   "pos": 9,
+   "played": 6,
    "won": 2,
-   "lost": 2,
-   "pf": 213,
-   "pa": 278,
+   "lost": 4,
+   "pf": 383,
+   "pa": 386,
    "points": 4,
    "penalty": 0
   },
   {
-   "team": "042467",
-   "pos": 9,
+   "team": "001423",
+   "pos": 10,
    "played": 5,
    "won": 2,
    "lost": 3,
-   "pf": 322,
-   "pa": 349,
+   "pf": 273,
+   "pa": 350,
    "points": 4,
    "penalty": 0
   },
   {
    "team": "006291",
-   "pos": 10,
-   "played": 5,
-   "won": 1,
-   "lost": 4,
-   "pf": 293,
-   "pa": 328,
-   "points": 2,
-   "penalty": 0
-  },
-  {
-   "team": "054458",
    "pos": 11,
-   "played": 5,
+   "played": 6,
    "won": 1,
-   "lost": 4,
-   "pf": 297,
-   "pa": 338,
+   "lost": 5,
+   "pf": 343,
+   "pa": 382,
    "points": 2,
    "penalty": 0
   },
   {
    "team": "051572",
    "pos": 12,
-   "played": 5,
+   "played": 6,
    "won": 0,
-   "lost": 5,
-   "pf": 273,
-   "pa": 374,
+   "lost": 6,
+   "pf": 321,
+   "pa": 460,
    "points": 0,
    "penalty": 0
   }
@@ -5401,7 +5401,7 @@
    "homePts": 48,
    "awayPts": 86,
    "played": true,
-   "status": "designata",
+   "status": "omologata",
    "venue": {
     "name": "PALESTRA MAZZINI",
     "address": "Via Fabbri Zona Borgo",
@@ -5564,7 +5564,7 @@
    "homePts": 55,
    "awayPts": 73,
    "played": true,
-   "status": "designata",
+   "status": "omologata",
    "venue": {
     "name": "Palestra MICS",
     "address": "via Venezia - Moie",
@@ -5737,7 +5737,7 @@
    "homePts": 53,
    "awayPts": 44,
    "played": true,
-   "status": "designata",
+   "status": "omologata",
    "venue": {
     "name": "Palasport Comunale",
     "address": "L.go Donatori Del Sangue",
@@ -5905,7 +5905,7 @@
    "homePts": 54,
    "awayPts": 50,
    "played": true,
-   "status": "designata",
+   "status": "omologata",
    "venue": {
     "name": "Palestra \"P.Novelli\"",
     "address": "Via Del Prato 11",
@@ -6082,7 +6082,7 @@
    "homePts": 72,
    "awayPts": 60,
    "played": true,
-   "status": "designata",
+   "status": "omologata",
    "venue": {
     "name": "Palestra Pietralacroce",
     "address": "Via F.lli Zuccari",
@@ -6306,7 +6306,6 @@
     "province": "AN"
    },
    "referees": [
-    "Davide Sampaolesi",
     "Riccardo Galassi"
    ],
    "source": "fip-api"
