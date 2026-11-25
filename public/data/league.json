@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-25T07:41:36.400Z",
+ "updatedAt": "2026-11-25T23:34:47.356Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -181,8 +181,32 @@
    "provisional": 0
   },
   {
-   "team": "001433",
+   "team": "056402",
    "pos": 4,
+   "played": 5,
+   "won": 4,
+   "lost": 1,
+   "pf": 332,
+   "pa": 277,
+   "points": 8,
+   "penalty": 0,
+   "provisional": 1
+  },
+  {
+   "team": "052284",
+   "pos": 5,
+   "played": 7,
+   "won": 4,
+   "lost": 3,
+   "pf": 457,
+   "pa": 473,
+   "points": 8,
+   "penalty": 0,
+   "provisional": 1
+  },
+  {
+   "team": "001433",
+   "pos": 6,
    "played": 6,
    "won": 3,
    "lost": 3,
@@ -193,40 +217,16 @@
    "provisional": 0
   },
   {
-   "team": "056402",
-   "pos": 5,
-   "played": 4,
-   "won": 3,
-   "lost": 1,
-   "pf": 263,
-   "pa": 218,
-   "points": 6,
-   "penalty": 0,
-   "provisional": 0
-  },
-  {
-   "team": "052284",
-   "pos": 6,
+   "team": "030272",
+   "pos": 7,
    "played": 6,
    "won": 3,
    "lost": 3,
-   "pf": 390,
-   "pa": 410,
+   "pf": 378,
+   "pa": 365,
    "points": 6,
    "penalty": 0,
-   "provisional": 0
-  },
-  {
-   "team": "030272",
-   "pos": 7,
-   "played": 5,
-   "won": 3,
-   "lost": 2,
-   "pf": 315,
-   "pa": 298,
-   "points": 6,
-   "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "042467",
@@ -255,14 +255,14 @@
   {
    "team": "001423",
    "pos": 10,
-   "played": 5,
+   "played": 6,
    "won": 2,
-   "lost": 3,
-   "pf": 273,
-   "pa": 350,
+   "lost": 4,
+   "pf": 332,
+   "pa": 419,
    "points": 4,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "006291",
@@ -2320,9 +2320,9 @@
    "time": "21:45",
    "home": "056402",
    "away": "001423",
-   "homePts": null,
-   "awayPts": null,
-   "played": false,
+   "homePts": 69,
+   "awayPts": 59,
+   "played": true,
    "status": "designata",
    "venue": {
     "name": "Palascherma",
@@ -2334,7 +2334,8 @@
     "Francesco Bertolasi",
     "Riccardo Galassi"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/2"
   },
   {
    "id": "1127",
@@ -6271,9 +6272,9 @@
    "time": "21:30",
    "home": "030272",
    "away": "052284",
-   "homePts": null,
-   "awayPts": null,
-   "played": false,
+   "homePts": 63,
+   "awayPts": 67,
+   "played": true,
    "status": "designata",
    "venue": {
     "name": "Pal.dello Sport PALASIGE Alessio Pergolesi",
@@ -8313,6 +8314,7 @@
   }
  ],
  "warnings": [
+  "Gara 1126: somma punti tabellino 59-44 ≠ risultato 59-45",
   "Nome ambiguo in Pietralacroce 73 Ancona: \"Ansevini\" e \"Ansevini L.\", \"Ansevini D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Gladiatores Matelica: \"Porcarelli\" e \"Porcarelli D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Falconara Basket: \"Giampieri\" e \"Giampieri L.\", \"Giampieri T.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
