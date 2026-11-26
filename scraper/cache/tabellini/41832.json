@@ -1,0 +1,152 @@
+{
+ "home": {
+  "label": "PB 1992 Polverigi Basket",
+  "players": [
+   {
+    "name": "Farinelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Curina",
+    "pts": 11,
+    "played": true
+   },
+   {
+    "name": "Catena",
+    "pts": 17,
+    "played": true
+   },
+   {
+    "name": "Mazzoni",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Giaccaglia",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Frittella",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Rossi",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Risaliti",
+    "pts": 6,
+    "played": true
+   },
+   {
+    "name": "Sbaffo",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Salemi",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Baldini",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Messina",
+    "pts": 4,
+    "played": true
+   }
+  ],
+  "coach": "Bonventi"
+ },
+ "away": {
+  "label": "Unione Basket 2010",
+  "players": [
+   {
+    "name": "Palumbo",
+    "pts": 16,
+    "played": true
+   },
+   {
+    "name": "Pergolesi",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Sbarbati",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Pieralisi",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Feo",
+    "pts": 14,
+    "played": true
+   },
+   {
+    "name": "Brugnoni",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Costarelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Duca",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Pergolini",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Cioccolanti",
+    "pts": 16,
+    "played": true
+   },
+   {
+    "name": "Palmucci",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Santoni",
+    "pts": 0,
+    "played": true
+   }
+  ],
+  "coach": "Pepa"
+ },
+ "quarters": [
+  [
+   13,
+   18
+  ],
+  [
+   12,
+   15
+  ],
+  [
+   21,
+   12
+  ],
+  [
+   17,
+   22
+  ]
+ ]
+}

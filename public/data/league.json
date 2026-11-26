@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-25T23:34:47.356Z",
+ "updatedAt": "2026-11-26T07:40:42.295Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -2335,7 +2335,155 @@
     "Riccardo Galassi"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/2"
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/2",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/conero-razorbacks-falconara-basket-2-andata-divisione-regionale-2-girone-b/40435",
+    "quarters": [
+     [
+      20,
+      14
+     ],
+     [
+      15,
+      20
+     ],
+     [
+      19,
+      9
+     ],
+     [
+      15,
+      16
+     ]
+    ],
+    "home": [
+     {
+      "name": "Esposito",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Conte",
+      "pts": 18,
+      "played": true
+     },
+     {
+      "name": "Campanella",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Battagli",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Trovamala",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Gnoffo",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Iurini",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Alcidi",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Franchini",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Lanari",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Ponzella",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Filippetti",
+      "pts": 9,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Gambelli",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Bianchi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Cardinali G.",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Cardinali M.",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Latini",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Ogiemwonyi",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Spaccesi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Dottori",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Gramazio",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Moretti",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Giampieri L.",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Giampieri T.",
+      "pts": 15,
+      "played": true
+     }
+    ],
+    "homeCoach": "Cingolani",
+    "awayCoach": null,
+    "check": "ok"
+   }
   },
   {
    "id": "1127",
@@ -6286,7 +6434,156 @@
     "Tommaso Caporalini",
     "Mattia Sisi"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/pb-1992-polverigi-camerata-basket-blu-unione-basket-2010-jesi-7-andata-divisione-regionale-2-girone-b/41832",
+    "quarters": [
+     [
+      13,
+      18
+     ],
+     [
+      12,
+      15
+     ],
+     [
+      21,
+      12
+     ],
+     [
+      17,
+      22
+     ]
+    ],
+    "home": [
+     {
+      "name": "Farinelli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Curina",
+      "pts": 11,
+      "played": true
+     },
+     {
+      "name": "Catena",
+      "pts": 17,
+      "played": true
+     },
+     {
+      "name": "Mazzoni",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Giaccaglia",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Frittella",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Rossi",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Risaliti",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Sbaffo",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Salemi",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Baldini",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Messina",
+      "pts": 4,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Palumbo",
+      "pts": 16,
+      "played": true
+     },
+     {
+      "name": "Pergolesi",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Sbarbati",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Pieralisi",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Feo",
+      "pts": 14,
+      "played": true
+     },
+     {
+      "name": "Brugnoni",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Costarelli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Duca",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Pergolini",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Cioccolanti",
+      "pts": 16,
+      "played": true
+     },
+     {
+      "name": "Palmucci",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Santoni",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "homeCoach": "Bonventi",
+    "awayCoach": "Pepa",
+    "check": "ok"
+   }
   },
   {
    "id": "1152",
@@ -6310,7 +6607,8 @@
     "Lorenzo Cotellessa",
     "Riccardo Galassi"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7"
   },
   {
    "id": "1151",
@@ -6334,7 +6632,8 @@
     "Marco Angeloni",
     "Giovanni Andrea Molinaro"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7"
   },
   {
    "id": "1156",
@@ -6357,7 +6656,8 @@
    "referees": [
     "Asia Mancini"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7"
   },
   {
    "id": "1155",
@@ -6381,7 +6681,8 @@
     "Daniele Guercio",
     "Mattia Sisi"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7"
   },
   {
    "id": "1154",
@@ -6405,7 +6706,8 @@
     "Alessandro Di Lello",
     "Giovanni Andrea Molinaro"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7"
   },
   {
    "id": "1160",
@@ -6490,14 +6792,16 @@
    "homePts": null,
    "awayPts": null,
    "played": false,
-   "status": "calendario",
+   "status": "designata",
    "venue": {
     "name": "Palasport Matelica",
     "address": "Borgo Nazario Sauro",
     "city": "Matelica",
     "province": "MC"
    },
-   "referees": [],
+   "referees": [
+    "Gianluigi Bianconi"
+   ],
    "source": "fip-api"
   },
   {

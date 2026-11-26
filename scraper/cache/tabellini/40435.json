@@ -1,0 +1,152 @@
+{
+ "home": {
+  "label": "Conero Razorbacks",
+  "players": [
+   {
+    "name": "Esposito",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Conte",
+    "pts": 18,
+    "played": true
+   },
+   {
+    "name": "Campanella",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Battagli",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Trovamala",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Gnoffo",
+    "pts": 7,
+    "played": true
+   },
+   {
+    "name": "Iurini",
+    "pts": 2,
+    "played": true
+   },
+   {
+    "name": "Alcidi",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Franchini",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Lanari",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Ponzella",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Filippetti",
+    "pts": 9,
+    "played": true
+   }
+  ],
+  "coach": "Cingolani"
+ },
+ "away": {
+  "label": "Falconara Basket",
+  "players": [
+   {
+    "name": "Gambelli",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Bianchi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Cardinali G.",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Cardinali M.",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Latini",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Ogiemwonyi",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Spaccesi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Dottori",
+    "pts": 8,
+    "played": true
+   },
+   {
+    "name": "Gramazio",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Moretti",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Giampieri L.",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Giampieri T.",
+    "pts": 15,
+    "played": true
+   }
+  ],
+  "coach": null
+ },
+ "quarters": [
+  [
+   20,
+   14
+  ],
+  [
+   15,
+   20
+  ],
+  [
+   19,
+   9
+  ],
+  [
+   15,
+   16
+  ]
+ ]
+}
