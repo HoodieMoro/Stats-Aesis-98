@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-27T07:39:11.015Z",
+ "updatedAt": "2026-11-27T23:37:17.833Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -147,50 +147,50 @@
   {
    "team": "000334",
    "pos": 1,
-   "played": 6,
-   "won": 6,
+   "played": 7,
+   "won": 7,
    "lost": 0,
-   "pf": 473,
-   "pa": 339,
-   "points": 12,
+   "pf": 545,
+   "pa": 398,
+   "points": 14,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "055995",
    "pos": 2,
-   "played": 6,
-   "won": 4,
+   "played": 7,
+   "won": 5,
    "lost": 2,
-   "pf": 415,
-   "pa": 384,
-   "points": 8,
+   "pf": 508,
+   "pa": 415,
+   "points": 10,
    "penalty": 0,
-   "provisional": 0
-  },
-  {
-   "team": "000568",
-   "pos": 3,
-   "played": 6,
-   "won": 4,
-   "lost": 2,
-   "pf": 371,
-   "pa": 308,
-   "points": 8,
-   "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "056402",
-   "pos": 4,
-   "played": 5,
-   "won": 4,
+   "pos": 3,
+   "played": 6,
+   "won": 5,
    "lost": 1,
-   "pf": 332,
-   "pa": 277,
+   "pf": 390,
+   "pa": 317,
+   "points": 10,
+   "penalty": 0,
+   "provisional": 1
+  },
+  {
+   "team": "000568",
+   "pos": 4,
+   "played": 7,
+   "won": 4,
+   "lost": 3,
+   "pf": 411,
+   "pa": 366,
    "points": 8,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "052284",
@@ -207,14 +207,14 @@
   {
    "team": "001433",
    "pos": 6,
-   "played": 6,
-   "won": 3,
+   "played": 7,
+   "won": 4,
    "lost": 3,
-   "pf": 341,
-   "pa": 330,
-   "points": 6,
+   "pf": 400,
+   "pa": 380,
+   "points": 8,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "030272",
@@ -231,26 +231,26 @@
   {
    "team": "042467",
    "pos": 8,
-   "played": 6,
+   "played": 7,
    "won": 3,
-   "lost": 3,
-   "pf": 376,
-   "pa": 399,
+   "lost": 4,
+   "pf": 426,
+   "pa": 458,
    "points": 6,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "054458",
    "pos": 9,
-   "played": 6,
+   "played": 7,
    "won": 2,
-   "lost": 4,
-   "pf": 383,
-   "pa": 386,
+   "lost": 5,
+   "pf": 442,
+   "pa": 458,
    "points": 4,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   },
   {
    "team": "001423",
@@ -279,14 +279,14 @@
   {
    "team": "051572",
    "pos": 12,
-   "played": 6,
+   "played": 7,
    "won": 0,
-   "lost": 6,
-   "pf": 321,
-   "pa": 460,
+   "lost": 7,
+   "pf": 352,
+   "pa": 553,
    "points": 0,
    "penalty": 0,
-   "provisional": 0
+   "provisional": 1
   }
  ],
  "standingsOfficial": [
@@ -6593,9 +6593,9 @@
    "time": "20:30",
    "home": "054458",
    "away": "000334",
-   "homePts": null,
-   "awayPts": null,
-   "played": false,
+   "homePts": 59,
+   "awayPts": 72,
+   "played": true,
    "status": "designata",
    "venue": {
     "name": "Pallone Geodetico",
@@ -6607,7 +6607,156 @@
     "Lorenzo Cotellessa",
     "Riccardo Galassi"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/project-basket-osimo-adriatico-ancona-7-andata-divisione-regionale-2-girone-b/41834",
+    "quarters": [
+     [
+      18,
+      16
+     ],
+     [
+      14,
+      22
+     ],
+     [
+      18,
+      15
+     ],
+     [
+      9,
+      19
+     ]
+    ],
+    "home": [
+     {
+      "name": "Biordi",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Vescovo",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Tortù",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Santilli",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Martella",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Strappato",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Carletti D.",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Gradara",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Carletti A.",
+      "pts": 16,
+      "played": true
+     },
+     {
+      "name": "Angelucci",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Belardinelli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Pettinari",
+      "pts": 2,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Carboni F.",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Carboni T.",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Vitali Fe.",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Scabini",
+      "pts": 16,
+      "played": true
+     },
+     {
+      "name": "Ripanti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Tamburini",
+      "pts": 11,
+      "played": true
+     },
+     {
+      "name": "Cecconi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Gasparrini F.",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Buontempi",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Osimani",
+      "pts": 16,
+      "played": true
+     },
+     {
+      "name": "Gasparrini A.",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Naspi",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "homeCoach": "Mosca",
+    "awayCoach": "Gasparrini M",
+    "check": "ok"
+   }
   },
   {
    "id": "1151",
@@ -6617,9 +6766,9 @@
    "time": "21:15",
    "home": "001433",
    "away": "042467",
-   "homePts": null,
-   "awayPts": null,
-   "played": false,
+   "homePts": 59,
+   "awayPts": 50,
+   "played": true,
    "status": "designata",
    "venue": {
     "name": "Palestra Scuole Elementari",
@@ -6631,7 +6780,8 @@
     "Marco Angeloni",
     "Giovanni Andrea Molinaro"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7"
   },
   {
    "id": "1156",
@@ -6641,9 +6791,9 @@
    "time": "21:15",
    "home": "055995",
    "away": "051572",
-   "homePts": null,
-   "awayPts": null,
-   "played": false,
+   "homePts": 93,
+   "awayPts": 31,
+   "played": true,
    "status": "designata",
    "venue": {
     "name": "Palasport Matelica",
@@ -6655,7 +6805,8 @@
     "Asia Mancini",
     "Andrea Tortolini"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7"
   },
   {
    "id": "1155",
@@ -6665,9 +6816,9 @@
    "time": "21:30",
    "home": "056402",
    "away": "000568",
-   "homePts": null,
-   "awayPts": null,
-   "played": false,
+   "homePts": 58,
+   "awayPts": 40,
+   "played": true,
    "status": "designata",
    "venue": {
     "name": "Palascherma",
@@ -6679,7 +6830,8 @@
     "Daniele Guercio",
     "Mattia Sisi"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7"
   },
   {
    "id": "1154",
@@ -6703,7 +6855,8 @@
     "Alessandro Di Lello",
     "Giovanni Andrea Molinaro"
    ],
-   "source": "fip-api"
+   "source": "fip-api",
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7"
   },
   {
    "id": "1160",
@@ -8618,6 +8771,7 @@
  ],
  "warnings": [
   "Nome ambiguo in Pietralacroce 73 Ancona: \"Ansevini\" e \"Ansevini L.\", \"Ansevini D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
+  "Nome ambiguo in Adriatico Ancona: \"Carboni\" e \"Carboni F.\", \"Carboni T.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Gladiatores Matelica: \"Porcarelli\" e \"Porcarelli D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Falconara Basket: \"Giampieri\" e \"Giampieri L.\", \"Giampieri T.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Aesis '98 Jesi: \"Mosca\" e \"Mosca G.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
