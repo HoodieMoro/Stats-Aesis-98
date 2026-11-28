@@ -1,0 +1,142 @@
+{
+ "home": {
+  "label": "Vis Castelfidardo",
+  "players": [
+   {
+    "name": "Giantomasi",
+    "pts": 5,
+    "played": true
+   },
+   {
+    "name": "Attili",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Gobbetti",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Monaci",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Venturini",
+    "pts": null,
+    "played": false
+   },
+   {
+    "name": "Schiavoni",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Virgini",
+    "pts": 11,
+    "played": true
+   },
+   {
+    "name": "Francioni",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Borsella",
+    "pts": 9,
+    "played": true
+   },
+   {
+    "name": "Di Palma",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Massaccesi",
+    "pts": 8,
+    "played": true
+   }
+  ],
+  "coach": "Magrini"
+ },
+ "away": {
+  "label": "Aesis Jesi",
+  "players": [
+   {
+    "name": "Sami Slama",
+    "pts": 4,
+    "played": true
+   },
+   {
+    "name": "Lardinelli",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Ogiemwonyi",
+    "pts": 10,
+    "played": true
+   },
+   {
+    "name": "Brutti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Mazzufferi",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Sebastianelli",
+    "pts": 12,
+    "played": true
+   },
+   {
+    "name": "Moretti",
+    "pts": 3,
+    "played": true
+   },
+   {
+    "name": "Brutti",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Nemchenko",
+    "pts": 13,
+    "played": true
+   },
+   {
+    "name": "Sabri Slama",
+    "pts": 0,
+    "played": true
+   },
+   {
+    "name": "Stronati",
+    "pts": 6,
+    "played": true
+   }
+  ],
+  "coach": "Mosca"
+ },
+ "quarters": [
+  [
+   10,
+   10
+  ],
+  [
+   19,
+   17
+  ],
+  [
+   11,
+   8
+  ],
+  [
+   19,
+   15
+  ]
+ ]
+}

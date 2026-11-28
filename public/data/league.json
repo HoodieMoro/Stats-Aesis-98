@@ -3,7 +3,7 @@
  "league": "Divisione Regionale 2 · Girone B",
  "region": "FIP Marche",
  "highlightTeam": "042467",
- "updatedAt": "2026-11-27T23:37:17.833Z",
+ "updatedAt": "2026-11-28T07:31:56.925Z",
  "sources": {
   "fip": "https://fip.it/risultati/?group=campionati-regionali&regione_codice=MA&comitato_codice=RMA&sesso=M&codice_campionato=PM&codice_fase=1&codice_girone=85532",
   "calendarPdf": "https://marche.fip.it/wp-content/uploads/2026/10/CUn.30-DR2-081026_gir-B_calendario-26-27.pdf",
@@ -6608,7 +6608,6 @@
     "Riccardo Galassi"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7",
    "boxscore": {
     "url": "https://www.basketmarche.it/tabellino-campionato-basket/project-basket-osimo-adriatico-ancona-7-andata-divisione-regionale-2-girone-b/41834",
     "quarters": [
@@ -6756,7 +6755,8 @@
     "homeCoach": "Mosca",
     "awayCoach": "Gasparrini M",
     "check": "ok"
-   }
+   },
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7"
   },
   {
    "id": "1151",
@@ -6781,7 +6781,145 @@
     "Giovanni Andrea Molinaro"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7"
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/vis-castelfidardo-aesis-98-jesi-7-andata-divisione-regionale-2-girone-b/41833",
+    "quarters": [
+     [
+      10,
+      10
+     ],
+     [
+      19,
+      17
+     ],
+     [
+      11,
+      8
+     ],
+     [
+      19,
+      15
+     ]
+    ],
+    "home": [
+     {
+      "name": "Giantomasi",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Attili",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Gobbetti",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Monaci",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Venturini",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Schiavoni",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Virgini",
+      "pts": 11,
+      "played": true
+     },
+     {
+      "name": "Francioni",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Borsella",
+      "pts": 9,
+      "played": true
+     },
+     {
+      "name": "Di Palma",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Massaccesi",
+      "pts": 8,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Sami Slama",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Lardinelli",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Ogiemwonyi",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Brutti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Mazzufferi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Sebastianelli",
+      "pts": 12,
+      "played": true
+     },
+     {
+      "name": "Moretti",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Brutti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Nemchenko",
+      "pts": 13,
+      "played": true
+     },
+     {
+      "name": "Sabri Slama",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Stronati",
+      "pts": 6,
+      "played": true
+     }
+    ],
+    "homeCoach": "Magrini",
+    "awayCoach": "Mosca",
+    "check": "mismatch"
+   }
   },
   {
    "id": "1156",
@@ -6806,7 +6944,150 @@
     "Andrea Tortolini"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7"
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/gladiatores-matelica-basket-school-fabriano-7-andata-divisione-regionale-2-girone-b/41836",
+    "quarters": [
+     [
+      29,
+      12
+     ],
+     [
+      20,
+      7
+     ],
+     [
+      15,
+      4
+     ],
+     [
+      29,
+      8
+     ]
+    ],
+    "home": [
+     {
+      "name": "Gentilucci",
+      "pts": 19,
+      "played": true
+     },
+     {
+      "name": "Porcarelli",
+      "pts": 12,
+      "played": true
+     },
+     {
+      "name": "Boni",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Brugnola",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Mori",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Offor",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Cingolani",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Sacco",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Picchietti",
+      "pts": 13,
+      "played": true
+     },
+     {
+      "name": "Zamparini",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Fenucci",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Orsini",
+      "pts": 2,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Gasparrini",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Cesarini",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Caldarigi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Pierotti",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Mosciatti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Staffaroni",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Patrociello",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Paoletti",
+      "pts": 8,
+      "played": true
+     },
+     {
+      "name": "Stefanelli",
+      "pts": 3,
+      "played": true
+     },
+     {
+      "name": "Onesta J.",
+      "pts": 11,
+      "played": true
+     },
+     {
+      "name": "Caporali",
+      "pts": 0,
+      "played": true
+     }
+    ],
+    "homeCoach": "Porcarelli D",
+    "awayCoach": "Porcarelli R",
+    "check": "ok"
+   }
   },
   {
    "id": "1155",
@@ -6827,11 +7108,154 @@
     "province": "AN"
    },
    "referees": [
-    "Daniele Guercio",
+    "Daniele Bruschi",
     "Mattia Sisi"
    ],
    "source": "fip-api",
-   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7"
+   "newsUrl": "https://www.basketmarche.it/campionato-basket/divisione-regionale-2/girone-b/Andata/7",
+   "boxscore": {
+    "url": "https://www.basketmarche.it/tabellino-campionato-basket/conero-razorbacks-montevalle-academy-7-andata-divisione-regionale-2-girone-b/41835",
+    "quarters": [
+     [
+      13,
+      11
+     ],
+     [
+      13,
+      9
+     ],
+     [
+      19,
+      7
+     ],
+     [
+      13,
+      13
+     ]
+    ],
+    "home": [
+     {
+      "name": "Esposito",
+      "pts": 13,
+      "played": true
+     },
+     {
+      "name": "Conte",
+      "pts": 7,
+      "played": true
+     },
+     {
+      "name": "Campanella",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Bartocci",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Trovamala",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Gnoffo",
+      "pts": 14,
+      "played": true
+     },
+     {
+      "name": "Iurini",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Giacchetti",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Franchini",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Lanari",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Ponzella",
+      "pts": 10,
+      "played": true
+     },
+     {
+      "name": "Filippetti",
+      "pts": 2,
+      "played": true
+     }
+    ],
+    "away": [
+     {
+      "name": "Mosca",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Ferri",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Paolinelli",
+      "pts": null,
+      "played": false
+     },
+     {
+      "name": "Carbonaro",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Gigli",
+      "pts": 13,
+      "played": true
+     },
+     {
+      "name": "Castelli",
+      "pts": 6,
+      "played": true
+     },
+     {
+      "name": "Carbonari",
+      "pts": 2,
+      "played": true
+     },
+     {
+      "name": "Di Campli",
+      "pts": 5,
+      "played": true
+     },
+     {
+      "name": "Burzacchini",
+      "pts": 4,
+      "played": true
+     },
+     {
+      "name": "Vallesi",
+      "pts": 0,
+      "played": true
+     },
+     {
+      "name": "Epstein",
+      "pts": 6,
+      "played": true
+     }
+    ],
+    "homeCoach": "Cingolani",
+    "awayCoach": null,
+    "check": "ok"
+   }
   },
   {
    "id": "1154",
@@ -6949,7 +7373,8 @@
     "province": "MC"
    },
    "referees": [
-    "Gianluigi Bianconi"
+    "Gianluigi Bianconi",
+    "Livio Carucci"
    ],
    "source": "fip-api"
   },
@@ -8770,6 +9195,7 @@
   }
  ],
  "warnings": [
+  "Gara 1151: somma punti tabellino 59-48 ≠ risultato 59-50",
   "Nome ambiguo in Pietralacroce 73 Ancona: \"Ansevini\" e \"Ansevini L.\", \"Ansevini D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Adriatico Ancona: \"Carboni\" e \"Carboni F.\", \"Carboni T.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
   "Nome ambiguo in Gladiatores Matelica: \"Porcarelli\" e \"Porcarelli D.\" — se sono la stessa persona aggiungi un alias in config.playerAliases",
